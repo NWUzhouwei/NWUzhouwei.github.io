@@ -30,16 +30,27 @@ redirect_from:
 学术兼职
 ======
 担任以下国际期刊审稿人：
+
 [1] IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
 [2] IEEE Transactions on Visualization and Computer Graphics (TVCG)
+
 [3] IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems（TCAD）
+
 [4] IEEE Transactions on Consumer Electronics （TCE）
+
 [5] Knowledge-Based Systems （KBS）
+
 [6] Expert Systems with Applications（ESWA）
+
 [7] International Journal for Light and Electron Optics（Optik）
+
 [8] Scientific Reports （SR）
+
 [9] PLOS ONE （PONE）
+
 [10] IEEE Access
+
 [11] Vietnam Journal of Science, Technology and Engineering（VJSTE）
 
 
