@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ZW_2024.8.16.jpg"
   name             : "周伟"
   pronouns         : # example: "she/her"  
   bio              : "西北大学·信息科学与技术学院·硕士生导师"
   location         : "中国·西安"
-  employer         : "Red Brick University"
+  employer         : "西北大学"
   uri              : # URL
   email            : "mczhouwei12@gmail.com" 
 
