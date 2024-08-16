@@ -1,11 +1,5 @@
----
-permalink: /
-title: "教育经历"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+教育经历
+======
 (1) 2016-10至2017-10, 联合培养博士，德国弗劳恩霍夫协会IGD研究所, Computer Science, 导师: Arjan Kuijper
 
 (2) 2013-8至2018-9, 博士，中国科学院大学, 信号与信息处理, 导师: 马彩文
