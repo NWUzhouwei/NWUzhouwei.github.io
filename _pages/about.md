@@ -3,9 +3,6 @@ layout: single
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 - 九三学社社员，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，第十一届全国大学生光电设计竞赛国赛优秀指导教师、西北区赛优秀指导教师，西北大学，信息科学与技术学院，硕士生导师。
