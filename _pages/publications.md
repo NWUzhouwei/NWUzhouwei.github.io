@@ -9,7 +9,8 @@ author_profile: true
 
 | |
 | :---- |
-|**Wei Zhou※**, Qian Wang, Weiwei Jin, Xinzhe Shi, Ying He. “[Graph Transformer for 3D point clouds classification and semantic segmentation]( )”, **Computers & Graphics**. (2024). CODE click [HERE]( ) |
+|**Wei Zhou※**, Qian Wang, Weiwei Jin, Xinzhe Shi, Ying He. “[Graph Transformer for 3D point clouds classification and semantic segmentation]( )”, **Computers & Graphics**. (2024). [CODE click HERE]( ) |
+|**Wei Zhou※**, Xiaodan Zhang, Xingxing Hao, Dekui Wang, Ying He. “[Multi point-voxel convolution (MPVConv) for deep learning on point clouds]( )”, **Computers & Graphics**. (2023). [CODE click HERE]( ) |
 
 会议论文
 ===
