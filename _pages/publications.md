@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Liang Ma, Xingxing Hao※, **Wei Zhou**, Qianbao He, Ruibang Zhang and Li Chen. “[A hybrid neural combinatorial optimization framework assisted by automated algorithm design]( )”, **Complex & Intelligent Systems**. (2024). [CODE click HERE]( ) |
 |**Wei Zhou※**, Qian Wang, Weiwei Jin, Xinzhe Shi and Ying He. “[Graph Transformer for 3D point clouds classification and semantic segmentation]( )”, **Computers & Graphics**. (2024). [CODE click HERE]( ) |
 |**Wei Zhou※**, Xiaodan Zhang, Xingxing Hao, Dekui Wang and Ying He. “[Multi point-voxel convolution (MPVConv) for deep learning on point clouds]( )”, **Computers & Graphics**. (2023). [CODE click HERE]( ) |
 |Dekui Wang, Jun Feng, Ke Liu, **Wei Zhou**, Xingxing Hao and Xiaodan Zhang. “[A Fast FPGA Connection Router Using Pre-routing Based Parallel Local Routing Algorithm]( )”, **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**. (2023). [CODE click HERE]( ) |
