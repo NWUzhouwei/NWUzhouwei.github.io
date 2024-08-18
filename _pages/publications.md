@@ -40,3 +40,10 @@ author_profile: true
 |**Wei Zhou※**, Yunfeng She, Weiwei Jin, Qian Wang, Kunlong Liu, Yongxiang Yu and Caiwen Ma. "[Enhancing Point Cloud Robustness through Cylindrical Coordinate Masking in PointCut]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
 |Xiwen Yang, Xingxing Hao, Li Chen, Dekui Wang, **Wei Zhou** and Wei Liu. "[A Novel Two-Stage Evolutionary Algorithm for Constrained Multiobjective Optimization]()". **The 5th International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**, 2023. [CODE click HERE.]( )|
 |Yao Hu, **Wei Zhou**, Guohua Geng, Kang Li※, Xingxing Hao and Xin Cao. "[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)]()". **The 5th International Conference on Computer Science and Application Engineering (CSAE 2021)**, 2021.  [CODE click HERE.]( )|
+
+发明专利
+===
+| |
+| :---- |
+| 胡尧，李康，**周伟**。基于区域生长与深度学习结合的针对兵马俑点云的无监督分割方法。申请专利号：CN202110061603.2  |
+| 王德奎，冯筠，**周伟**，郝星星，张晓丹。一种FPGA预布线方法、系统、介质、设备及终端。申请专利号：CN202211410494.1  |
