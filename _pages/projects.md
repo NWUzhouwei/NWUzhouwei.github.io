@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /competitions/
+permalink: /projects/
 author_profile: true
 ---
 
