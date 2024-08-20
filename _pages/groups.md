@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /members/
+permalink: /groups/
 author_profile: true
 ---
 
