@@ -14,8 +14,8 @@ main:
   - title: "项目/审稿"
     url: /projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "科研团队"
+    url: /groups/
         
   - title: "Blog Posts"
     url: /year-archive/
