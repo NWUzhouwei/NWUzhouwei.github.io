@@ -29,32 +29,6 @@ redirect_from:
 
 - 2013.01-2013.06, 中国科学院, 西安光学精密机械研究所, 实习
 
-学术兼职
-======
-
-担任以下国际期刊审稿人：
-
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-
-- IEEE Transactions on Visualization and Computer Graphics (TVCG)
-
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems（TCAD）
-
-- IEEE Transactions on Consumer Electronics （TCE）
-
-- Knowledge-Based Systems （KBS）
-
-- Expert Systems with Applications（ESWA）
-
-- International Journal for Light and Electron Optics（Optik）
-
-- Scientific Reports （SR）
-
-- PLOS ONE （PONE）
-
-- IEEE Access
-
-- Vietnam Journal of Science, Technology and Engineering（VJSTE）
 
 教授课程
 ======
