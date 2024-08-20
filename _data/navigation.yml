@@ -16,12 +16,3 @@ main:
     
   - title: "科研团队"
     url: /groups/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
