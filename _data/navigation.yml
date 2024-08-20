@@ -11,8 +11,8 @@ main:
   - title: "竞赛获奖"
     url: /competitions/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "项目/审稿"
+    url: /projects/    
     
   - title: "Portfolio"
     url: /portfolio/
