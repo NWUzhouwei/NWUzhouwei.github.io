@@ -6,7 +6,7 @@ author_profile: true
 ---
 
  承担项目
- ===
+ ======
 
 | 项目来源 | 项目类别 | 项目名称 | 项目编号 | 项目日期
 | :----: | :----: | :----: | :----: |  :----: |
@@ -20,7 +20,7 @@ author_profile: true
 |国家自然科学基金|面上项目|抑制大气湍流影响的新型光场频谱采样阵列及高分辨计算成像机制研究|61875257|2019.01-2022.12|
 
 论文审稿
-===
+======
 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
