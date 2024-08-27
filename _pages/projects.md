@@ -27,6 +27,7 @@ author_profile: true
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems（TCAD）
 - IEEE Transactions on Consumer Electronics （TCE）
+- IEEE Internet of Things Journal (IEEE IOTJ)
 - Knowledge-Based Systems （KBS）
 - Expert Systems with Applications（ESWA）
 - International Journal for Light and Electron Optics（Optik）
