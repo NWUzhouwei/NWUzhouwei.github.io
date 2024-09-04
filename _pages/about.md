@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "个人简介"
+title: "西北大学周伟——个人简介"
 author_profile: true
 redirect_from: 
   - /about/
