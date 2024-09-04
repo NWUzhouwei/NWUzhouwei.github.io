@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "周伟个人主页"
+title                    : "西北大学周伟个人主页"
 title_separator          : "-"
 name                     : &name "周伟"
 description              : &description "personal description"
