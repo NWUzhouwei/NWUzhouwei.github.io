@@ -9,7 +9,7 @@ author_profile: true
 
 | |
 | :---- |
-|..., **Wei Zhou**, .... “[PRN: Progressive Reasoning Network and Its Image Completion Applications]( )”, **Scientific Reports**. (2024). [CODE click HERE]( ) |
+|Yongqin Zhang, Xiaoyu Wang, Panpan Zhu, Xuan Lu, Jinsheng Xiao, **Wei Zhou**, Zhan Li, Xianlin Peng. “[PRN: Progressive Reasoning Network and Its Image Completion Applications]( )”, **Scientific Reports**. (2024). [CODE click HERE]( ) |
 |Liang Ma, Xingxing Hao※, **Wei Zhou**, Qianbao He, Ruibang Zhang and Li Chen. “[A hybrid neural combinatorial optimization framework assisted by automated algorithm design]( )”, **Complex & Intelligent Systems**. (2024). [CODE click HERE]( ) |
 |**Wei Zhou※**, Qian Wang, Weiwei Jin, Xinzhe Shi and Ying He. “[Graph Transformer for 3D point clouds classification and semantic segmentation]( )”, **Computers & Graphics**. (2024). [CODE click HERE]( ) |
 |**Wei Zhou※**, Xiaodan Zhang, Xingxing Hao, Dekui Wang and Ying He. “[Multi point-voxel convolution (MPVConv) for deep learning on point clouds]( )”, **Computers & Graphics**. (2023). [CODE click HERE]( ) |
