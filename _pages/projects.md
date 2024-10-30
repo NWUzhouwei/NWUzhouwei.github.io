@@ -22,9 +22,9 @@ author_profile: true
 |西北大学|西北大学校级实验项目|模块化嵌入式系统实验教具|-|2023|
 |国家自然科学基金|面上项目|抑制大气湍流影响的新型光场频谱采样阵列及高分辨计算成像机制研究|61875257|2019.01-2022.12|
 
-论文审稿
+学术兼职/论文审稿
 ======
-
+- IEEE International Conference on Signal Processing-ICSP2024 分会主席
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems（TCAD）
