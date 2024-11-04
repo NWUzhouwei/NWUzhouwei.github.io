@@ -34,7 +34,7 @@ author_profile: true
 
 |  |
 | :---- |
-|**Wei Zhou※**, Kunlong Liu, Weiwei Jin, Qian Wang, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Revolutionizing Point Cloud Classification with Multiview Self-Supervised Learning]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (**ICSP 2024最佳论文奖**Oral Presentation).  [CODE click HERE.]( )|
+|**Wei Zhou※**, Kunlong Liu, Weiwei Jin, Qian Wang, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Revolutionizing Point Cloud Classification with Multiview Self-Supervised Learning]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (**ICSP 2024最佳论文奖**, Oral Presentation).  [CODE click HERE.]( )|
 |**Wei Zhou※**, Weiwei Jin, Qian Wang, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Unveiling the Power of Dual Positional Encoding in Point Cloud Learning with DPAtteNet]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
 |**Wei Zhou※**, Weiwei Jin, Qian Wang, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Global Mask Autoencoder for Streamlined Point Cloud Learning and Voxel Token Integration]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
 |**Wei Zhou※**, Qian Wang, Weiwei Jin, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[SMNet: Surface Feature Extraction Network using Multi-scale Strategy]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
