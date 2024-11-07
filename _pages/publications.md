@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Haofang Wang, Li Chen, Xingxing Hao, Rong Qu, **Wei Zhou**, Dekui Wang, Wei Liu. “[Learning-guided cross-sampling for large-scale evolutionary multi-objective optimization]( )”, **Swarm and Evolutionary Computation**. (2024). [CODE click HERE]( ) |
 |Yongqin Zhang, Xiaoyu Wang, Panpan Zhu, Xuan Lu, Jinsheng Xiao, **Wei Zhou**, Zhan Li, Xianlin Peng. “[PRN: Progressive Reasoning Network and Its Image Completion Applications]( )”, **Scientific Reports**. (2024). [CODE click HERE]( ) |
 |Liang Ma, Xingxing Hao※, **Wei Zhou**, Qianbao He, Ruibang Zhang and Li Chen. “[A hybrid neural combinatorial optimization framework assisted by automated algorithm design]( )”, **Complex & Intelligent Systems**. (2024). [CODE click HERE]( ) |
 |**Wei Zhou※**, Qian Wang, Weiwei Jin, Xinzhe Shi and Ying He. “[Graph Transformer for 3D point clouds classification and semantic segmentation]( )”, **Computers & Graphics**. (2024). [CODE click HERE]( ) |
