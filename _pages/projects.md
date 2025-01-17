@@ -25,8 +25,10 @@ author_profile: true
 学术兼职/论文审稿
 ======
 - IEEE International Conference on Signal Processing-ICSP2024 分会主席
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
+- IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems（TCAD）
 - IEEE Transactions on Consumer Electronics （TCE）
 - IEEE Internet of Things Journal (IoT)
@@ -40,4 +42,9 @@ author_profile: true
 - PLOS ONE （PONE）
 - IEEE Access
 - Vietnam Journal of Science, Technology and Engineering（VJSTE）
+
+2025年论文审稿量统计
+======
+TPAMI 1篇；TCSVT 2篇；KBS 1篇；TCDS 1篇
+SIVP 1篇；IEEE Access 6篇
 
