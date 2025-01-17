@@ -9,7 +9,7 @@ author_profile: true
 
 | |
 | :---- |
-|**Wei Zhou※**, Xinzhe Shi, Yunfeng She, Kunlong Liu, Yongqin Zhang. “[Semi-supervised Single-view 3D Reconstruction via Multi Shape Prior Fusion Strategy and Self-Attention]( )”, **Computers & Graphics**. (2024). [CODE click HERE](https://github.com/NWUzhouwei/SSMP).--The code are verified by **[Haoyu Guo (郭浩宇，浙江大学)](https://github.com/ghy0324)** in [Graphics Replicability Stamp Initiative (GRSI)](https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp).|
+|**Wei Zhou※**, Xinzhe Shi, Yunfeng She, Kunlong Liu, Yongqin Zhang. “[Semi-supervised Single-view 3D Reconstruction via Multi Shape Prior Fusion Strategy and Self-Attention]( )”, **Computers & Graphics**. (2025). [CODE click HERE](https://github.com/NWUzhouwei/SSMP).--The code are verified by **[Haoyu Guo (郭浩宇，浙江大学)](https://github.com/ghy0324)** in [Graphics Replicability Stamp Initiative (GRSI)](https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp).|
 |Haofang Wang, Li Chen, Xingxing Hao, Rong Qu, **Wei Zhou**, Dekui Wang, Wei Liu. “[Learning-guided cross-sampling for large-scale evolutionary multi-objective optimization]( )”, **Swarm and Evolutionary Computation**. (2024). [CODE click HERE]( ) |
 |Yongqin Zhang, Xiaoyu Wang, Panpan Zhu, Xuan Lu, Jinsheng Xiao, **Wei Zhou**, Zhan Li, Xianlin Peng. “[PRN: Progressive Reasoning Network and Its Image Completion Applications]( )”, **Scientific Reports**. (2024). [CODE click HERE]( ) |
 |Liang Ma, Xingxing Hao※, **Wei Zhou**, Qianbao He, Ruibang Zhang and Li Chen. “[A hybrid neural combinatorial optimization framework assisted by automated algorithm design]( )”, **Complex & Intelligent Systems**. (2024). [CODE click HERE]( ) |
