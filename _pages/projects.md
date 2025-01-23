@@ -49,5 +49,5 @@ author_profile: true
 ======
 - TPAMI 1篇；TCSVT 2篇；KBS 1篇；TCDS 1篇；TBME 1篇；
 - OLEN 1篇；
-- SIVP 2篇；IEEE Access 7篇；
+- SIVP 2篇；IEEE Access 7篇；PONE 2篇
 
