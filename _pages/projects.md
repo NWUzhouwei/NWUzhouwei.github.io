@@ -28,12 +28,14 @@ author_profile: true
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
+- IEEE Transactions on Biomedical Engineering (TBME)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems（TCAD）
 - IEEE Transactions on Consumer Electronics （TCE）
 - IEEE Internet of Things Journal (IoT)
 - Knowledge-Based Systems （KBS）
 - Expert Systems with Applications（ESWA）
+- Optics and Lasers in Engineering (OLEN)
 - International Journal for Light and Electron Optics（Optik）
 - Scientific Reports （SR）
 - Journal of Electromagnetic Waves and Applications（TEWA）
@@ -45,6 +47,7 @@ author_profile: true
 
 2025年论文审稿量统计
 ======
-- TPAMI 1篇；TCSVT 2篇；KBS 1篇；TCDS 1篇；
-- SIVP 2篇；IEEE Access 7篇
+- TPAMI 1篇；TCSVT 2篇；KBS 1篇；TCDS 1篇；TBME 1篇；
+- OLEN 1篇；
+- SIVP 2篇；IEEE Access 7篇；
 
