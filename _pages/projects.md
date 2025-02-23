@@ -50,7 +50,7 @@ author_profile: true
 
 2025年论文审稿量统计
 ======
-- TPAMI 1篇；TCSVT 7篇；KBS 1篇；TCDS 1篇；TBME 1篇；TCE 1篇
+- TPAMI 1篇；TCSVT 7篇；KBS 1篇；ESWA 1篇；TCDS 1篇；TBME 1篇；TCE 1篇
 - OLEN 1篇；NTREV 1篇
 - SIVP 2篇；IEEE Access 7篇；PONE 2篇；ACT 1篇
 - TJS 1篇
