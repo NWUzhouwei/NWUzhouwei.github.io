@@ -41,13 +41,14 @@ author_profile: true
 - Journal of Electromagnetic Waves and Applications（TEWA）
 - Computers, Materials & Continua（CMC）
 - Signal Image and Video Processing（SIVP）
+- International Journal of Applied Ceramic Technology（ACT）
 - PLOS ONE （PONE）
 - IEEE Access
 - Vietnam Journal of Science, Technology and Engineering（VJSTE）
 
 2025年论文审稿量统计
 ======
-- TPAMI 1篇；TCSVT 2篇；KBS 1篇；TCDS 1篇；TBME 1篇；TCE 1篇
+- TPAMI 1篇；TCSVT 7篇；KBS 1篇；TCDS 1篇；TBME 1篇；TCE 1篇
 - OLEN 1篇；
-- SIVP 2篇；IEEE Access 7篇；PONE 2篇
+- SIVP 2篇；IEEE Access 7篇；PONE 2篇；ACT 1篇
 
