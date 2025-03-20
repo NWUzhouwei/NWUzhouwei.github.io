@@ -28,6 +28,7 @@ author_profile: true
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Visualization and Computer Graphics (TVCG)
+- IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 - IEEE Transactions on Biomedical Engineering (TBME)
 - IEEE Transactions on Cognitive and Developmental Systems (TCDS)
@@ -51,7 +52,7 @@ author_profile: true
 
 2025年论文审稿量统计
 ======
-- TPAMI 1篇；TCSVT 7篇；KBS 1篇；ESWA 4篇；TCDS 1篇；TBME 1篇；TCE 1篇；TGRS 1篇
+- TPAMI 1篇；TCSVT 7篇；KBS 1篇；ESWA 4篇；TCDS 1篇；TBME 1篇；TCE 1篇；TGRS 1篇; TMM 1篇
 - OLEN 1篇；NTREV 1篇；CMC 2篇
 - SIVP 2篇；IEEE Access 15篇；PONE 2篇；ACT 1篇
 - TJS 1篇
