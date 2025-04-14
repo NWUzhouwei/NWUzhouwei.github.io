@@ -38,6 +38,7 @@ author_profile: true
 - Knowledge-Based Systems （KBS）
 - Expert Systems with Applications（ESWA）
 - Optics and Lasers in Engineering (OLEN)
+- IET Image Processing (IPR)
 - International Journal for Light and Electron Optics（Optik）
 - Scientific Reports （SR）
 - Journal of Electromagnetic Waves and Applications（TEWA）
