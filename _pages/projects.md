@@ -33,6 +33,7 @@ author_profile: true
 - IEEE International Conference on Signal Processing-ICSP2024 分会主席
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (SCI 1区 顶刊，CCF A类 人工智能顶刊)
 - IEEE Transactions on Circuits and Systems for Video Technology (SCI 1区 顶刊)
+- IEEE Transactions on Neural Networks and Learning Systems (SCI 1区 顶刊)
 - IEEE Transactions on Visualization and Computer Graphics (SCI 1区 顶刊，CCF A类 图形学顶刊)
 - IEEE Transactions on Multimedia (SCI 1区 顶刊)
 - IEEE Transactions on Geoscience and Remote Sensing (SCI 1区 顶刊)
