@@ -28,6 +28,7 @@ author_profile: true
 
 学术兼职/论文审稿
 ======
+- CCF A类 人工智能顶会 AAAI 2026
 - IEEE International Conference on Signal Processing-ICSP2024 分会主席
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
