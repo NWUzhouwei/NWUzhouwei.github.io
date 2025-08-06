@@ -28,33 +28,34 @@ author_profile: true
 
 学术兼职/论文审稿
 ======
-- CCF A类 人工智能顶会 AAAI 2026
+- AAAI 2026 (CCF A类 人工智能顶会)
+- ICCV 2025 (CCF A类 人工智能顶会)
 - IEEE International Conference on Signal Processing-ICSP2024 分会主席
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- IEEE Transactions on Visualization and Computer Graphics (TVCG)
-- IEEE Transactions on Multimedia (TMM)
-- IEEE Transactions on Geoscience and Remote Sensing (TGRS)
-- IEEE Transactions on Biomedical Engineering (TBME)
-- IEEE Transactions on Cognitive and Developmental Systems (TCDS)
-- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems（TCAD）
-- IEEE Transactions on Consumer Electronics （TCE）
-- IEEE Internet of Things Journal (IoT)
-- Knowledge-Based Systems （KBS）
-- Expert Systems with Applications（ESWA）
-- Optics and Lasers in Engineering (OLEN)
-- IET Image Processing (IPR)
-- International Journal for Light and Electron Optics（Optik）
-- Scientific Reports （SR）
-- Journal of Electromagnetic Waves and Applications（TEWA）
-- Computers, Materials & Continua（CMC）
-- Nanotechnology Reviews（NTREV）
-- Signal Image and Video Processing（SIVP）
-- International Journal of Applied Ceramic Technology（ACT）
-- PLOS ONE （PONE）
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (SCI 1区 顶刊，CCF A类 人工智能顶刊)
+- IEEE Transactions on Circuits and Systems for Video Technology (SCI 1区 顶刊)
+- IEEE Transactions on Visualization and Computer Graphics (SCI 1区 顶刊，CCF A类 图形学顶刊)
+- IEEE Transactions on Multimedia (SCI 1区 顶刊)
+- IEEE Transactions on Geoscience and Remote Sensing (SCI 1区 顶刊)
+- IEEE Transactions on Biomedical Engineering
+- IEEE Transactions on Cognitive and Developmental Systems
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF A类)
+- IEEE Transactions on Consumer Electronics (SCI 2区)
+- IEEE Internet of Things Journal (SCI 1区 顶刊)
+- Knowledge-Based Systems (SCI 1区 顶刊)
+- Expert Systems with Applications (SCI 1区 顶刊)
+- Optics and Lasers in Engineering
+- IET Image Processing
+- International Journal for Light and Electron Optics
+- Scientific Reports
+- Journal of Electromagnetic Waves and Applications
+- Computers, Materials & Continua
+- Nanotechnology Reviews
+- Signal Image and Video Processing
+- International Journal of Applied Ceramic Technology
+- PLOS ONE
 - IEEE Access
-- Vietnam Journal of Science, Technology and Engineering（VJSTE）
-- The Journal of Supercomputing（TJS）
+- Vietnam Journal of Science, Technology and Engineering
+- The Journal of Supercomputing
 
 2025年论文审稿量统计
 ======
