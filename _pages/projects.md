@@ -42,6 +42,7 @@ author_profile: true
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (CCF A类)
 - IEEE Transactions on Consumer Electronics (SCI 2区)
 - IEEE Internet of Things Journal (SCI 1区 顶刊)
+- Automation in Construction (SCI 1区 顶)
 - Knowledge-Based Systems (SCI 1区 顶刊)
 - Expert Systems with Applications (SCI 1区 顶刊)
 - Optics and Lasers in Engineering
