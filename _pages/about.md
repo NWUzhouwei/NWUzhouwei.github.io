@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-alert {
-  font-family: Lato, Verdana, Helvetica, sans-serif;
-  font-size: 13px;
-  font-weight: bold;
-  color: #FF0000;
-}
 
 - 联系方式：[mczhouwei12@gmail.com](mailto:mczhouwei12@gmail.com)、[zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)
 - 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，ICSP 2024分会主席，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
