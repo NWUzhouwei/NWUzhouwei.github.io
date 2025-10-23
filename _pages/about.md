@@ -22,7 +22,7 @@ redirect_from:
   <li>2025-07-15：2022级硕士金卫卫、石忻哲、王倩分别入职江西工程学院、保利发展、小米科技。</li>
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛一等奖1项，二等奖2项，三等奖1项。</li>
   <li>2025-06-15：🔥2022级硕士金卫卫获得2025届优秀毕业生。</li>
-  <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
+  <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
   <li>2025-02-17：🔥<a href="https://github.com/NWUzhouwei/CCMNet">CCMNet</a> 被1区Top顶刊ESWA接收。</li>
   <li>2024-11-27：🔥<a href="https://github.com/NWUzhouwei/SSMP">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
 </ul>
