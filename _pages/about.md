@@ -6,6 +6,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+alert {
+  font-family: Lato, Verdana, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: #FF0000;
+}
 ---
 
 - 联系方式：[mczhouwei12@gmail.com](mailto:mczhouwei12@gmail.com)、[zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)
