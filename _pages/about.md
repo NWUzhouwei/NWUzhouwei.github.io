@@ -15,6 +15,7 @@ redirect_from:
 🔥最新动态
 ======
 <ul type="circle">
+  <li>2025-10-11：🔥<a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被SCI期刊EPSR接收。</li>
   <li>2025-10-10：🔥2023级硕士刘坤龙获得硕士生国家奖学金。 </li>
   <li>2025-08-19：获得第十三届全国大学生光电设计竞赛国赛三等奖。 </li>
   <li>2025-07-27：获得第十三届全国大学生光电设计竞赛（西北区赛）“优秀指导教师”。</li>
