@@ -25,7 +25,7 @@ redirect_from:
   <li>2025-06-15：🔥2022级硕士金卫卫获得2025届优秀毕业生。</li>
   <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
   <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被1区Top顶刊ESWA接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
-  <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源，代码已通过href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp">GRSI</a>验证（浙江大学href="https://github.com/ghy0324">郭浩宇</a>）。</li>
+  <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp">GRSI</a>验证（浙江大学<a href="https://github.com/ghy0324">郭浩宇</a>）。</li>
   <li>2024-10-30：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a>获评17届ICSP最佳会议论文，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
   <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846277">VP-GMAE</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/VP-GMAE">代码</a>已开源。</li>
   <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846792">DPAtteNet</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/DPAtteNet">代码</a>已开源。</li>
@@ -35,7 +35,7 @@ redirect_from:
   <li>2024-10-28：🔥当选17届ICSP分会主席。</li>
   <li>2024-10-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650224003018">LMOEA-LGCS</a> 被1区期刊SEC接收。</li>
   <li>2024-10-09：🔥<a href="https://www.nature.com/articles/s41598-024-72368-1">PRN</a> 被SCI 2区期刊SR接收，<a href="https://github.com/albestobe/PRN">代码</a>已开源。</li>
-  <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
+  <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学<a href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
   <li>2024-07-29：🔥<a href="https://link.springer.com/article/10.1007/s40747-024-01600-2">HNCO</a> 被SCI 2区期刊CIS接收。</li>
   <li>2023-03-31：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849323000377">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/MPVConv">代码</a>已开源。</li>
 </ul>
