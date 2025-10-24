@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Yongxiang Yu, Wenxin Zhang, Jian Han, **Wei Zhou**, Han Zeng. “[Coupled simulation of anode erosion in vacuum circuit breakers under high-frequency inrush current](https://www.sciencedirect.com/science/article/pii/S0378779625009551)”, **Electric Power Systems Research**. (2025). (**SCI 期刊**).| 
 |**Wei Zhou※**, Weiwei Jin, Dekui Wang, Xingxing Hao, Yongxiang Yu, Caiwen Ma. “[Exploring Multi-Scale and Cross-Type Features in 3D Point Cloud Learning with CCMNet]( )”, **Expert Systems With Applications**. (2025). (**SCI 1区Top期刊**). [CODE click HERE]( ) | 
 |**Wei Zhou※**, Kunlong Liu, Weiwei Jin, Qian Wang, Yunfeng She, Yongxiang Yu, Caiwen Ma. “[Advancements in Deep Learning for Point Cloud Classification and Segmentation: A Comprehensive Review]( )”, **Computers & Graphics**. (2025). (**SCI 2区期刊**).|
 |**Wei Zhou※**, Xinzhe Shi, Yunfeng She, Kunlong Liu, Yongqin Zhang. “[Semi-supervised Single-view 3D Reconstruction via Multi Shape Prior Fusion Strategy and Self-Attention]( )”, **Computers & Graphics**. (2025).(**SCI 2区期刊**). [CODE click HERE](https://github.com/NWUzhouwei/SSMP).--The code are verified by **[Haoyu Guo (郭浩宇，浙江大学)](https://github.com/ghy0324)** in [Graphics Replicability Stamp Initiative (GRSI)](https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp).|
