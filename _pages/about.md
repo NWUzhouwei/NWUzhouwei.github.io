@@ -24,11 +24,11 @@ redirect_from:
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛一等奖1项，二等奖2项，三等奖1项。</li>
   <li>2025-06-15：🔥2022级硕士金卫卫获得2025届优秀毕业生。</li>
   <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
-  <li>2025-02-17：🔥<a href="https://github.com/NWUzhouwei/CCMNet">CCMNet</a> 被1区Top顶刊ESWA接收。</li>
-  <li>2024-11-27：🔥<a href="https://github.com/NWUzhouwei/SSMP">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
+  <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被1区Top顶刊ESWA接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
+  <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源。</li>
   <li>2024-10-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650224003018">LMOEA-LGCS</a> 被1区期刊SEC接收。</li>
-  <li>2024-08-19：🔥<a href="https://github.com/NWUzhouwei/GTNet">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
-  <li>2023-03-31：🔥<a href="https://github.com/NWUzhouwei/MPVConv">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
+  <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源。</li>
+  <li>2023-03-31：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849323000377">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/MPVConv">代码</a>已开源。</li>
 </ul>
 
 - 近年来，承担了科技部国家重点研发计划专项、文旅部国家重点研发计划、国家自然科学基金面上项目、陕西省重点研发计划、陕西省教育厅专项科研计划项目、中国科学院开放基金等国家级、省部级课题近10项。发表学术论文30余篇，SCI检索论文20余篇。获得的荣誉主要包括：指导学生获得全国大学生光电设计竞赛“国赛一等奖”、“国赛三等奖”、“西北区赛一等奖”；指导学生获批大学生创新创业训练计划项目“国家级项目立项”、“省级项目立项”；指导学生获得中国大学生计算机设计大赛“西北区赛一等奖”；ICSP 2024最佳论文奖。
