@@ -26,6 +26,13 @@ redirect_from:
   <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
   <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被1区Top顶刊ESWA接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
   <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源。</li>
+  <li>2024-10-30：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a>获评17届ICSP最佳会议论文，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
+  <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846277">VP-GMAE</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/VP-GMAE">代码</a>已开源。</li>
+  <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846792">DPAtteNet</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/DPAtteNet">代码</a>已开源。</li>
+  <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
+  <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846575">SMNet</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/SMNet">代码</a>已开源。</li>
+  <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846390/">PointCut</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/PointCut">代码</a>已开源。</li>
+  <li>2024-10-28：🔥当选17届ICSP分会主席。</li>
   <li>2024-10-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650224003018">LMOEA-LGCS</a> 被1区期刊SEC接收。</li>
   <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源。</li>
   <li>2023-03-31：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849323000377">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/MPVConv">代码</a>已开源。</li>
