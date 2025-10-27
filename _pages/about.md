@@ -47,15 +47,28 @@ redirect_from:
   <li>2024-10-09：🔥<a href="https://www.nature.com/articles/s41598-024-72368-1">PRN</a> 被SCI 2区期刊SR接收，<a href="https://github.com/albestobe/PRN">代码</a>已开源。</li>
   <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学<a href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
   <li>2024-07-29：🔥<a href="https://link.springer.com/article/10.1007/s40747-024-01600-2">HNCO</a>被SCI 2区期刊CIS接收。</li>
+  <li>2024-04-15：🔥获得第十七届全国大学生软件创新大赛西北区赛三等奖（陈鸿羽，颜晓轶，杨慕然，柴佳旭）。 </li>
   <li>2023-11-22：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10294922">CMOPs</a>被5届DOCS接收。</li>
   <li>2023-11-15：🔥<a href="https://link.springer.com/article/10.1007/s00521-023-09122-7">PSM</a> 被CCF人工智能期刊NCA接收。</li>
+  <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛国赛优秀指导教师奖。 </li>
+  <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛国赛一等奖（孙新妍，张款，黄玢艳）。 </li>
+  <li>2023-07-30：🔥获得第十二届中国软件杯大学生软件设计大赛西部赛区三等奖（何铖俊）。 </li>
+  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛西北区赛优秀指导教师奖。 </li>
+  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛西北区赛一等奖（孙新妍，张款，黄玢艳）。 </li>
+  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛西北区赛三等奖（刘畅，苏锦泉，马萌阳）。 </li>
+  <li>2023-07-15：🔥获得第十八届中国研究生电子设计竞赛西北区赛三等奖（金卫卫，王一凡，刘坤龙）。 </li>
+  <li>2023-07-15：🔥获得第十八届中国研究生电子设计竞赛西北区赛三等奖（王倩，佘昀峰，石忻哲）。 </li>
+  <li>2023-06-10：🔥获得西北大学2023年大学生光电设计竞赛一等奖（孙新妍，张款，黄玢艳）。 </li>
+  <li>2023-06-10：🔥获得西北大学2023年大学生光电设计竞赛二等奖（刘畅，苏锦泉，马萌阳）。 </li>
   <li>2023-05-10：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10122622">PRoute</a> 被CCF A类期刊TCAD接收。</li>
   <li>2023-03-31：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849323000377">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/MPVConv">代码</a>已开源。</li>
+  <li>2022-11-15：🔥大学生创新创业训练计划项目获省级立项（何铖俊，薛杨，朱泽昊）。 </li>
   <li>2022-08-11：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650222001201">Bi-level offspring generation</a> 被SCI 1区期刊SEC接收。</li>
   <li>2022-07-12：🔥<a href="https://link.springer.com/article/10.1007/s11063-022-10966-8">T-E-GRU</a> 被CCF人工智能期刊NPL接收，<a href="https://github.com/NWUzhouwei/T-E-GRU">代码</a>已开源。</li>
   <li>2022-07-06：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9816052">FCRoute</a> 被CCF A类期刊TCAD接收。</li>
   <li>2021-11-07：🔥<a href="https://dl.acm.org/doi/abs/10.1145/3487075.3487092">SRG-Net</a>被5届CSAE接收，<a href="https://github.com/NWUzhouwei/SRGNet">代码</a>已开源。</li>
   <li>2021-09-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402621015849">A self-adaptive learning method</a> 被SCI期刊Optik接收。</li>
+  <li>2021-09-15：🔥大学生创新创业训练计划项目获国家级立项（魏浩文，康笑瑞，杨子阅）。 </li>
   <li>2021-07-30：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779621004740">Prestrike inrush</a> 被SCI期刊EPSR接收。</li>
   <li>2020-11-20：🔥<a href="https://pubs.aip.org/aip/jap/article-abstract/128/19/193104/346722/A-deep-unsupervised-clustering-based-post?redirectedFrom=fulltext">Unsupervised clustering-based post-processing</a> 被SCI期刊JAP接收。</li>
   <li>2020-09-02：🔥<a href="https://opg.optica.org/josaa/abstract.cfm?uri=josaa-37-11-1711">3D Terracotta Warrior Simplification</a> 被SCI期刊JOSA A接收。</li>
