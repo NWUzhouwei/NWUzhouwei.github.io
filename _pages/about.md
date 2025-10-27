@@ -47,7 +47,11 @@ redirect_from:
   <li>2024-10-09：🔥<a href="https://www.nature.com/articles/s41598-024-72368-1">PRN</a> 被SCI 2区期刊SR接收，<a href="https://github.com/albestobe/PRN">代码</a>已开源。</li>
   <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学<a href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
   <li>2024-07-29：🔥<a href="https://link.springer.com/article/10.1007/s40747-024-01600-2">HNCO</a> 被SCI 2区期刊CIS接收。</li>
+  <li>2023-11-15：🔥<a href="https://link.springer.com/article/10.1007/s00521-023-09122-7">PSM</a> 被CCF人工智能期刊NCA接收。</li>
+  <li>2023-05-10：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10122622">PRoute</a> 被CCF A类期刊TCAD接收。</li>
   <li>2023-03-31：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849323000377">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/MPVConv">代码</a>已开源。</li>
+  <li>2022-08-11：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650222001201">Bi-level offspring generation</a> 被SCI 1区期刊SEC接收。</li>
+  <li>2022-07-06：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9816052">FCRoute</a> 被CCF A类期刊TCAD接收。</li>
 </ul>
 
 - 近年来，承担了科技部国家重点研发计划专项、文旅部国家重点研发计划、国家自然科学基金面上项目、陕西省重点研发计划、陕西省教育厅专项科研计划项目、中国科学院开放基金等国家级、省部级课题近10项。发表学术论文30余篇，SCI检索论文20余篇。获得的荣誉主要包括：指导学生获得全国大学生光电设计竞赛“国赛一等奖”、“国赛三等奖”、“西北区赛一等奖”；指导学生获批大学生创新创业训练计划项目“国家级项目立项”、“省级项目立项”；指导学生获得中国大学生计算机设计大赛“西北区赛一等奖”；ICSP 2024最佳论文奖。
