@@ -33,7 +33,7 @@ redirect_from:
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛二等奖（刘世一，李嘉鑫）。</li>
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛二等奖（张骞，何晨语，陈玉锋）。</li>
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛三等奖（郭凌馨，俞浩，杨慕然，来敏烨）。</li>
-  <li>2025-06-15：🔥2022级硕士金卫卫获得2025届优秀毕业生。</li>
+  <li>2025-06-15：🔥2022级硕士金卫卫获得<a href="https://www.nwu.edu.cn/info/1200/40892.htm">2025届优秀毕业生</a>。</li>
   <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
   <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被1区Top顶刊ESWA接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
   <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp">GRSI</a>验证（浙江大学<a href="https://github.com/ghy0324">郭浩宇</a>）。</li>
