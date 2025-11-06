@@ -20,6 +20,7 @@ redirect_from:
   <li>2025-10-11：🔥<a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被SCI期刊EPSR接收。</li>
   <li>2025-10-10：🔥2023级硕士刘坤龙获得硕士生国家奖学金。 </li>
   <li>2025-08-19：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=9567&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛三等奖（郑少毅，吴启迪，张丰毅）</a>。 </li>
+  <li>2025-08-06：🔥当选第40届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>的Program Committee。 </li>
   <li>2025-07-27：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）“优秀指导教师”</a>。</li>
   <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）一等奖（郑少毅，吴启迪，张丰毅）</a>。</li>
   <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）一等奖（张骞，何晨语，陈玉锋）</a>。</li>
