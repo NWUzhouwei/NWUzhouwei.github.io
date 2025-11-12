@@ -15,6 +15,7 @@ redirect_from:
 🔥最新动态
 ======
 <ul type="circle">
+  <li>2025-11-12：🔥当选人工智能顶会<a href="https://cvpr.thecvf.com/">CVPR 2026</a>的Reviewer。 </li>
   <li>2025-10-28：🔥发明专利ZL202411977023.8已授权。 </li>
   <li>2025-10-17：🔥发明专利ZL202411949123.X已授权。 </li>
   <li>2025-10-11：🔥<a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被SCI期刊EPSR接收。</li>
