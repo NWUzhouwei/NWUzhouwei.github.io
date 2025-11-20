@@ -56,7 +56,7 @@ redirect_from:
   <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛优秀指导教师奖</a>。 </li>
   <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛一等奖（孙新妍，张款，黄玢艳）</a>。 </li>
   <li>2023-07-30：🔥获得第十二届中国软件杯大学生软件设计大赛西部赛区三等奖（何铖俊）。 </li>
-  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛西北区赛优秀指导教师奖。 </li>
+  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=5353&path=%2Fdatacenter%2Fnews%2Fdynamicevents">西北区赛优秀指导教师奖</a>。 </li>
   <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=5353&path=%2Fdatacenter%2Fnews%2Fdynamicevents">西北区赛一等奖（孙新妍，张款，黄玢艳）</a>。 </li>
   <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=5353&path=%2Fdatacenter%2Fnews%2Fdynamicevents">西北区赛三等奖（刘畅，苏锦泉，马萌阳）</a>。 </li>
   <li>2023-07-15：🔥获得第十八届中国研究生电子设计竞赛西北区赛三等奖（金卫卫，王一凡，刘坤龙）。 </li>
