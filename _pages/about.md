@@ -37,9 +37,12 @@ redirect_from:
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛二等奖（刘世一，李嘉鑫）。</li>
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛二等奖（张骞，何晨语，陈玉锋）。</li>
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛三等奖（郭凌馨，俞浩，杨慕然，来敏烨）。</li>
+  <li>2025-06-20：🔥项目《“新工科”建设视角下Java程序设计课程教学改革研究》获批全国高等院校计算机基础教育研究会计算机基础教育教学研究课题。 </li>
   <li>2025-06-15：🔥2022级硕士金卫卫获得<a href="https://www.nwu.edu.cn/info/1200/40892.htm">2025届优秀毕业生</a>。</li>
   <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
   <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被1区Top顶刊ESWA接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
+  <li>2025-01-22：🔥项目《Java Programming》获批西北大学2024年全英文教学课程提升项目。 </li>
+  <li>2024-12-10：🔥项目《数字化背景下环境设计专业应用型人才培养模式研究》获批陕西省“十四五”教育科学规划2024年度课题。 </li>
   <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp">GRSI</a>验证（浙江大学<a href="https://github.com/ghy0324">郭浩宇</a>）。</li>
   <li>2024-10-30：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a>获评17届ICSP最佳会议论文，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
   <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846277">VP-GMAE</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/VP-GMAE">代码</a>已开源。</li>
@@ -48,11 +51,14 @@ redirect_from:
   <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846575">SMNet</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/SMNet">代码</a>已开源。</li>
   <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846390">PointCut</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/PointCut">代码</a>已开源。</li>
   <li>2024-10-28：🔥当选17届ICSP分会主席。</li>
+  <li>2024-10-21：🔥项目《单光子成像系统仿真分析》获批中科院横向项目。 </li>
   <li>2024-10-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650224003018">LMOEA-LGCS</a> 被1区期刊SEC接收。</li>
   <li>2024-10-09：🔥<a href="https://www.nature.com/articles/s41598-024-72368-1">PRN</a> 被SCI 2区期刊SR接收，<a href="https://github.com/albestobe/PRN">代码</a>已开源。</li>
+  <li>2024-09-11：🔥项目《面向破损兵马俑修复的碎片多尺度全局Token掩码学习分类研究》获批教育部人文社科青年基金。 </li>
   <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学<a href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
   <li>2024-07-29：🔥<a href="https://link.springer.com/article/10.1007/s40747-024-01600-2">HNCO</a>被SCI 2区期刊CIS接收。</li>
   <li>2024-04-15：🔥获得第十七届全国大学生软件创新大赛西北区赛三等奖（陈鸿羽，颜晓轶，杨慕然，柴佳旭）。 </li>
+  <li>2023-12-04：🔥项目《空间暗弱小目标检测跟踪技术研究》获批中科院飞行器光学成像与测量技术重点实验室开放基金。 </li>
   <li>2023-11-22：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10294922">CMOPs</a>被5届DOCS接收。</li>
   <li>2023-11-15：🔥<a href="https://link.springer.com/article/10.1007/s00521-023-09122-7">PSM</a> 被CCF人工智能期刊NCA接收。</li>
   <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛优秀指导教师奖</a>。 </li>
@@ -71,6 +77,7 @@ redirect_from:
   <li>2022-08-11：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650222001201">Bi-level offspring generation</a> 被SCI 1区期刊SEC接收。</li>
   <li>2022-07-12：🔥<a href="https://link.springer.com/article/10.1007/s11063-022-10966-8">T-E-GRU</a> 被CCF人工智能期刊NPL接收，<a href="https://github.com/NWUzhouwei/T-E-GRU">代码</a>已开源。</li>
   <li>2022-07-06：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9816052">FCRoute</a> 被CCF A类期刊TCAD接收。</li>
+  <li>2022-10-30：🔥项目《复杂文物发掘场景下的三维特征分析》获批陕西省教育厅专项科研计划项目。 </li>
   <li>2021-11-07：🔥<a href="https://dl.acm.org/doi/abs/10.1145/3487075.3487092">SRG-Net</a>被5届CSAE接收，<a href="https://github.com/NWUzhouwei/SRGNet">代码</a>已开源。</li>
   <li>2021-09-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402621015849">A self-adaptive learning method</a> 被SCI期刊Optik接收。</li>
   <li>2021-09-15：🔥大学生创新创业训练计划项目获国家级立项（魏浩文，康笑瑞，杨子阅）。 </li>
@@ -78,11 +85,14 @@ redirect_from:
   <li>2020-11-20：🔥<a href="https://pubs.aip.org/aip/jap/article-abstract/128/19/193104/346722/A-deep-unsupervised-clustering-based-post?redirectedFrom=fulltext">Unsupervised clustering-based post-processing</a> 被SCI期刊JAP接收。</li>
   <li>2020-09-02：🔥<a href="https://opg.optica.org/josaa/abstract.cfm?uri=josaa-37-11-1711">3D Terracotta Warrior Simplification</a> 被SCI期刊JOSA A接收。</li>
   <li>2020-09-01：🔥<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238259">Single image restoration</a> 被SCI期刊Plos One接收。</li>
+  <li>2020-06-30：🔥项目《基于局部特征描述符的复杂文物发掘场景下的三维目标识别研究与应用》获批陕西省重点研发计划。 </li>
+  <li>2020-03-13：🔥项目《智慧博物馆关键技术研发和示范》获批国家重点研发计划。 </li>
   <li>2020-02-19：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9003277">URT</a> 被SCI期刊IEEE Access接收。</li>
   <li>2020-02-16：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402620302783">IE-FBM</a> 被SCI期刊Optik接收。</li>
   <li>2018-09-15：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849318301468">FFIS</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
   <li>2018-02-10：🔥<a href="https://link.springer.com/article/10.1007/s00371-018-1478-x">HGND</a> 被CCF计算机图形学与多媒体期刊TVCJ接收。</li>
   <li>2018-01-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849318300116">Hough-space-based HG</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
+  <li>2016-07-21：🔥获批中国科学院大学留学项目资助前往德国联合培养、访学。 </li>
 </ul>
 
 - 近年来，承担了科技部国家重点研发计划专项、文旅部国家重点研发计划、国家自然科学基金面上项目、陕西省重点研发计划、陕西省教育厅专项科研计划项目、中国科学院开放基金等国家级、省部级课题近10项。发表学术论文30余篇，SCI检索论文20余篇。获得的荣誉主要包括：指导学生获得全国大学生光电设计竞赛“国赛一等奖”、“国赛三等奖”、“西北区赛一等奖”；指导学生获批大学生创新创业训练计划项目“国家级项目立项”、“省级项目立项”；指导学生获得中国大学生计算机设计大赛“西北区赛一等奖”；ICSP 2024最佳论文奖。
