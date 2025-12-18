@@ -39,10 +39,15 @@ redirect_from:
   <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛三等奖（郭凌馨，俞浩，杨慕然，来敏烨）。</li>
   <li>2025-06-20：🔥项目《“新工科”建设视角下Java程序设计课程教学改革研究》获批全国高等院校计算机基础教育研究会计算机基础教育教学研究课题。 </li>
   <li>2025-06-15：🔥2022级硕士金卫卫获得<a href="https://www.nwu.edu.cn/info/1200/40892.htm">2025届优秀毕业生</a>。</li>
+  <li>2025-05-28：🔥《慧知—记忆化知识图谱资料处理与自动化生活管理助手》获批2025年大学生创新训练计划项目一般项目。</li>
+  <li>2025-05-28：🔥《基于半监督学习的社交媒体评论情感分析》获批2025年大学生创新训练计划项目一般项目。</li>
+  <li>2025-05-28：🔥《“智诊宝”智能诊断系统—基于深度学习与自然语言处理的医疗辅助诊断系统》获批2025年大学生创新训练计划项目一般项目。</li>
+  <li>2025-05-06：🔥省级大学生创新训练计划项目《基于跨模态注意力机制和强化学习联合模型的多模态情感识别与人格分析可视化系统》获批2025年大学生创新训练计划项目优秀结题项目。</li>
   <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
   <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被1区Top顶刊ESWA接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
   <li>2025-01-22：🔥项目《Java Programming》获批西北大学2024年全英文教学课程提升项目。 </li>
   <li>2024-12-10：🔥项目《数字化背景下环境设计专业应用型人才培养模式研究》获批陕西省“十四五”教育科学规划2024年度课题。 </li>
+  <li>2024-12-06：🔥《基于跨模态注意力机制和强化学习联合模型的多模态情感识别与人格分析可视化系统》获批2024年大学生创新训练计划项目省级立项。</li>
   <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp">GRSI</a>验证（浙江大学<a href="https://github.com/ghy0324">郭浩宇</a>）。</li>
   <li>2024-10-30：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a>获评17届ICSP最佳会议论文，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
   <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846277">VP-GMAE</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/VP-GMAE">代码</a>已开源。</li>
