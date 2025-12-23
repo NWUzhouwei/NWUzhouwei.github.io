@@ -127,6 +127,7 @@ redirect_from:
 
 - 《面向对象程序设计（双语）》
 - 《Java程序设计》
+- 《Java Programming（全英）》
 - 《Python程序设计》
 - 《SAP ERP》
 - 《人工智能》
