@@ -18,6 +18,7 @@ redirect_from:
   <li>2025-12-05：🔥发明专利ZL202411935562.5已授权。 </li>
   <li>2025-11-12：🔥当选人工智能顶会<a href="https://cvpr.thecvf.com/">CVPR 2026</a>的Reviewer。 </li>
   <li>2025-11-11：🔥发明专利ZL202211410494.1已授权。 </li>
+  <li>2025-10-31：🔥获得2025中国国际大学生创新大赛铜奖（大模型MCP驱动的智能教育信息集成平台）。 </li>
   <li>2025-10-28：🔥发明专利ZL202411977023.8已授权。 </li>
   <li>2025-10-17：🔥发明专利ZL202411949123.X已授权。 </li>
   <li>2025-10-11：🔥<a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被SCI期刊EPSR接收。</li>
