@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Yibo Wang, Dekui Wang, Jun Feng, Qirong Bo, Yaqiong Xing, **Wei Zhou**, Xingxing Hao. “[Toward Safe Driving: Efficient Detection of Small Blurred Signs in Real-World Scenarios](https://ieeexplore.ieee.org/document/11395315)”, **IEEE Transactions on Intelligent Transportation Systems**. (2026). (**SCI 1区Top期刊**).| 
 |Yongxiang Yu, Wenxin Zhang, Jian Han, **Wei Zhou**, Han Zeng. “[Coupled simulation of anode erosion in vacuum circuit breakers under high-frequency inrush current](https://www.sciencedirect.com/science/article/pii/S0378779625009551)”, **Electric Power Systems Research**. (2025). (**SCI 期刊**).| 
 |**Wei Zhou※**, Weiwei Jin, Dekui Wang, Xingxing Hao, Yongxiang Yu, Caiwen Ma. “[Exploring Multi-Scale and Cross-Type Features in 3D Point Cloud Learning with CCMNet]( )”, **Expert Systems With Applications**. (2025). (**SCI 1区Top期刊**). [CODE click HERE]( ) | 
 |**Wei Zhou※**, Kunlong Liu, Weiwei Jin, Qian Wang, Yunfeng She, Yongxiang Yu, Caiwen Ma. “[Advancements in Deep Learning for Point Cloud Classification and Segmentation: A Comprehensive Review]( )”, **Computers & Graphics**. (2025). (**SCI 2区期刊**).|
