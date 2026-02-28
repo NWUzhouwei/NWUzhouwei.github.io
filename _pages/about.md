@@ -23,7 +23,7 @@ redirect_from:
   <li>2025-10-31：🔥获得2025中国国际大学生创新大赛铜奖（大模型MCP驱动的智能教育信息集成平台）。 </li>
   <li>2025-10-28：🔥发明专利ZL202411977023.8已授权。 </li>
   <li>2025-10-17：🔥发明专利ZL202411949123.X已授权。 </li>
-  <li>2025-10-11：🔥<a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被SCI期刊EPSR接收。</li>
+  <li>2025-10-11：🔥论文<a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被SCI期刊EPSR接收。</li>
   <li>2025-10-10：🔥2023级硕士刘坤龙获得硕士生国家奖学金。 </li>
   <li>2025-08-19：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=9567&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛三等奖（郑少毅，吴启迪，张丰毅）</a>。 </li>
   <li>2025-08-06：🔥当选第40届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>的Program Committee。 </li>
