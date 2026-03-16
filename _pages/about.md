@@ -16,6 +16,7 @@ redirect_from:
 ======
 <ul type="circle">
   <li>2026-02-09：🔥当选人工智能顶会<a href="https://eccv.ecva.net/">ECCV 2026</a>的Reviewer。 </li>
+  <li>2026-02-03：🔥当选人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Reviewer。 </li>
   <li>2026-01-22：🔥论文<a href="https://ieeexplore.ieee.org/document/11395315">Towards Safe Driving: Efficient Detection of Small Blurred Signs in Real-World Scenarios</a>被1区Top期刊IEEE Transactions on Intelligent Transportation Systems接收。 </li>
   <li>2025-12-05：🔥发明专利ZL202411935562.5已授权。 </li>
   <li>2025-11-12：🔥当选人工智能顶会<a href="https://cvpr.thecvf.com/">CVPR 2026</a>的Reviewer。 </li>
