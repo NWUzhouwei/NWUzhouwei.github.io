@@ -16,6 +16,7 @@ redirect_from:
 🔥最新动态
 ======
 <ul type="circle">
+  <li>2026-04-27：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=740a7ad8a682416b84bb084858748131">（西北区赛）一等奖（赛区前8，智联茂境:多Agent任务驱动型一站式AI互动服务平台）</a>。</li>
   <li>2026-03-25：🔥当选第40届人工智能顶会<a href="https://neurips.cc/">NeurIPS 2026</a>的Reviewer。 </li>
   <li>2026-02-09：🔥当选第19届人工智能顶会<a href="https://eccv.ecva.net/">ECCV 2026</a>的Reviewer。 </li>
   <li>2026-02-03：🔥当选第43届人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Reviewer。 </li>
