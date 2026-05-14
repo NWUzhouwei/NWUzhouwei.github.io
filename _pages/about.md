@@ -16,6 +16,7 @@ redirect_from:
 🔥最新动态
 ======
 <ul type="circle">
+  <li>2026-05-14：🔥2023级硕士刘坤龙获得<a href="">2026届优秀毕业生</a>。</li>
   <li>2026-05-08：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=0e13605e37634778983b816273ac0a77">国赛三等奖</a>（智联茂境:多Agent任务驱动型一站式AI互动服务平台）。</li>
   <li>2026-04-30：🔥论文A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification被第43届人工智能顶会&机器学习顶会<a href="https://icml.cc/">ICML 2026</a>接收。 </li>
   <li>2026-04-27：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=740a7ad8a682416b84bb084858748131">（西北区赛）一等奖</a>（赛区前8，智联茂境:多Agent任务驱动型一站式AI互动服务平台）。</li>
