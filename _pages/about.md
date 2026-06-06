@@ -12,11 +12,12 @@ redirect_from:
 - 联系方式：[mczhouwei12@gmail.com](mailto:mczhouwei12@gmail.com)、[zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)
 - 招生专业：软件工程，计算机科学与技术，新一代电子信息技术（含量子技术等）
 - [谷歌学术个人主页](https://scholar.google.com/citations?user=i11Hs2kAAAAJ&hl=zh-CN)
-- 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，ICSP 2024分会主席，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
+- 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，ICML金牌审稿人，CVPR、ICCV、ECCV、NeurIPS、AAAI审稿人，Pacific Graphics 2026 IPC，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，ICSP 2024分会主席，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
 
 🔥最新动态
 ======
 <ul type="circle">
+  <li>2026-06-06：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的IPC。 </li>
   <li>2026-05-14：🔥获得第43届人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Gold Reviewer称号。 </li>
   <li>2026-05-14：🔥2023级硕士刘坤龙获得<a href="">2026届优秀毕业生</a> & 国家奖学金。</li>
   <li>2026-05-08：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=0e13605e37634778983b816273ac0a77">国赛三等奖</a>（智联茂境:多Agent任务驱动型一站式AI互动服务平台）。</li>
