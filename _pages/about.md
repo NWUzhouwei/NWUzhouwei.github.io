@@ -137,6 +137,19 @@ redirect_from:
 
 - 2013.01-2013.06, 中国科学院, 西安光学精密机械研究所
 
+学术任职
+======
+- ICML 2026 Golden Reviewer（金牌审稿人）
+- Pacific Graphics 2026 IPC（国际程序委员会）
+- AAAI 2026 Program Committee
+- CVPR 2026 Reviewer
+- ICCV 2025 Reviewer
+- ECCV 2026 Reviewer
+- NeurIPS 2026 Reviewer
+- ICSP 2024分会主席
+- 陕西省计算机学会第九届理事会会员代表
+- 陕西省计算机学会媒体计算专委会委员
+
 
 教授课程
 ======
