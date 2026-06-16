@@ -15,9 +15,9 @@ redirect_from:
 - 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，ICML金牌审稿人，CVPR、ICCV、ECCV、NeurIPS、AAAI审稿人，Pacific Graphics 2026 IPC，ICSP 2024分会主席，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
 
 🔥最新动态
-======
+====== 
 <ul type="circle">
-  <li>2026-06-16：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的Technical Program Committee。 </li>
+  <li>2026-06-16：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的<a href="https://pacificgraphics2026.github.io/">Technical Program Committee</a>。 </li>
   <li>2026-06-11：🔥2023级硕士刘坤龙获得<a href="">2026届优秀毕业生</a> & 国家奖学金 & 优秀学位论文。</li>
   <li>2026-06-06：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的IPC（国际程序委员会）。 </li>
   <li>2026-05-14：🔥获得第43届人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Gold Reviewer称号。 </li>
