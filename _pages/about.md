@@ -17,6 +17,7 @@ redirect_from:
 🔥最新动态
 ======
 <ul type="circle">
+  <li>2026-06-06：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的Technical Program Committee。 </li>
   <li>2026-06-11：🔥2023级硕士刘坤龙获得<a href="">2026届优秀毕业生</a> & 国家奖学金 & 优秀学位论文。</li>
   <li>2026-06-06：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的IPC（国际程序委员会）。 </li>
   <li>2026-05-14：🔥获得第43届人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Gold Reviewer称号。 </li>
@@ -140,7 +141,7 @@ redirect_from:
 学术任职
 ======
 - ICML 2026 Golden Reviewer（金牌审稿人）
-- Pacific Graphics 2026 IPC（国际程序委员会）
+- Pacific Graphics 2026 Technical Program Committee & IPC（国际程序委员会）
 - AAAI 2026 Program Committee
 - CVPR 2026 Reviewer
 - ICCV 2025 Reviewer
