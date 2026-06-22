@@ -23,6 +23,11 @@ redirect_from:
   <li>2026-06-06：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的IPC（国际程序委员会）。 </li>
   <li>2026-05-14：🔥获得第43届人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Gold Reviewer称号。 </li>
   <li>2026-05-08：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=0e13605e37634778983b816273ac0a77">国赛三等奖</a>（智联茂境:多Agent任务驱动型一站式AI互动服务平台）。</li>
+  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛一等奖（《智联瀚海——多agent任务驱动型一站式AI多端服务平台》）。</li>
+  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《银龄智伴 — 社区老年人关怀服务平台》）。</li>
+  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《知巷博客系统》）。</li>
+  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《星火学航——基于提示词工程和学习过程建模的学习导航》）。</li>
+  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《领航AI大学生就业服务平台》）。</li>
   <li>2026-04-30：🔥论文A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification被第43届人工智能顶会&机器学习顶会<a href="https://icml.cc/">ICML 2026</a>接收。 </li>
   <li>2026-04-27：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=740a7ad8a682416b84bb084858748131">（西北区赛）一等奖</a>（赛区前8，智联茂境:多Agent任务驱动型一站式AI互动服务平台）。</li>
   <li>2026-04-16：🔥论文Bayesian MAP-Guided Self-Adaptive Learning for Robust Motion Blur Kernel Estimation in Imaging被第48届生物医学工程年会<a href="https://embc.embs.org/2026/">EMBC 2026</a>接收。 </li>
