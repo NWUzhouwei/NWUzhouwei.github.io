@@ -4,6 +4,25 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+会议论文
+===
+
+|  |
+| :---- |
+|**Wei Zhou**, Xinzhe Shi, Xingxing Hao, Xing Hao, Kang Li, Jinye Peng, Ying He. "[Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity]()". **The 19th European Conference on Computer Vision (ECCV 2026)**, 2026.  [CODE click HERE.]( )|
+|Yunzhi Tian, Dekui Wang, Jun Feng, Qirong Bu, **Wei Zhou**, Xingxing Hao. "[A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification]()". **Forty-third International Conference on Machine Learning (ICML 2026)**, 2026.  [CODE click HERE.]( )|
+|**Wei Zhou**, Mengsong Han, Yongxiang Yu, Siyao Wang, Xingxing Hao※ and Dekui Wang※. "[Bayesian MAP-Guided Self-Adaptive Learning for Robust Motion Blur Kernel Estimation in Imaging]()". **The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)**, 2026.  [CODE click HERE.]( )|
+|Dekui Wang, Taoyuan Liu※, Yunzhi Tian, Qirong Bo, **Wei Zhou** and Jun Feng※. "[Coupling-Aware Evidential Transfer Learning for Motor Imagery EEG Decoding]()". **The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)**, 2026.  [CODE click HERE.]( )|
+|Siyao Wang, Baoyan Zhang, Guanghui Li, **Wei Zhou**, Xu Gong and Yun Yang※. "[A Modular Engineered Probiotic Platform for Synergistic Anti-Obesity Treatment via Dual Metabolite and Peptide Delivery]()". **The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)**, 2026.  [CODE click HERE.]( )|
+|**Wei Zhou※**, Kunlong Liu, Weiwei Jin, Qian Wang, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Revolutionizing Point Cloud Classification with Multiview Self-Supervised Learning]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (**ICSP 2024最佳论文奖**, Oral Presentation).  [CODE click HERE.]( )|
+|**Wei Zhou※**, Weiwei Jin, Qian Wang, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Unveiling the Power of Dual Positional Encoding in Point Cloud Learning with DPAtteNet]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
+|**Wei Zhou※**, Weiwei Jin, Qian Wang, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Global Mask Autoencoder for Streamlined Point Cloud Learning and Voxel Token Integration]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
+|**Wei Zhou※**, Qian Wang, Weiwei Jin, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[SMNet: Surface Feature Extraction Network using Multi-scale Strategy]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
+|**Wei Zhou※**, Yunfeng She, Weiwei Jin, Qian Wang, Kunlong Liu, Yongxiang Yu and Caiwen Ma. "[Enhancing Point Cloud Robustness through Cylindrical Coordinate Masking in PointCut]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
+|Xiwen Yang, Xingxing Hao, Li Chen, Dekui Wang, **Wei Zhou** and Wei Liu. "[A Novel Two-Stage Evolutionary Algorithm for Constrained Multiobjective Optimization]()". **The 5th International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**, 2023. [CODE click HERE.]( )|
+|Yao Hu, **Wei Zhou**, Guohua Geng, Kang Li※, Xingxing Hao and Xin Cao. "[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)]()". **The 5th International Conference on Computer Science and Application Engineering (CSAE 2021)**, 2021.  [CODE click HERE.]( )|
+
+
 期刊论文
 ===
 
@@ -35,22 +54,6 @@ author_profile: true
 |**Wei Zhou※**, Caiwen Ma and Arjan Kuijper. “[Hough-space-based hypothesis generation and hypothesis verification for 3D object recognition and 6D pose estimation]( )”, **Computers & Graphics**. (2018).(**SCI 2区期刊**). [CODE click HERE]( ) |
 |**Wei Zhou※**, Caiwen Ma, Tong Yao, Peng Chang, Qi Zhang and Arjan Kuijper. “[Histograms of Gaussian normal distribution for 3D feature matching in cluttered scenes]( )”, **The Visual Computer**. (2019).(**CCF C类期刊**). [CODE click HERE]( ) |
 
-会议论文
-===
-
-|  |
-| :---- |
-|Yunzhi Tian, Dekui Wang, Jun Feng, Qirong Bu, **Wei Zhou**, Xingxing Hao. "[A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification]()". **Forty-third International Conference on Machine Learning (ICML 2026)**, 2026.  [CODE click HERE.]( )|
-|**Wei Zhou**, Mengsong Han, Yongxiang Yu, Siyao Wang, Xingxing Hao※ and Dekui Wang※. "[Bayesian MAP-Guided Self-Adaptive Learning for Robust Motion Blur Kernel Estimation in Imaging]()". **The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)**, 2026.  [CODE click HERE.]( )|
-|Dekui Wang, Taoyuan Liu※, Yunzhi Tian, Qirong Bo, **Wei Zhou** and Jun Feng※. "[Coupling-Aware Evidential Transfer Learning for Motor Imagery EEG Decoding]()". **The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)**, 2026.  [CODE click HERE.]( )|
-|Siyao Wang, Baoyan Zhang, Guanghui Li, **Wei Zhou**, Xu Gong and Yun Yang※. "[A Modular Engineered Probiotic Platform for Synergistic Anti-Obesity Treatment via Dual Metabolite and Peptide Delivery]()". **The 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026)**, 2026.  [CODE click HERE.]( )|
-|**Wei Zhou※**, Kunlong Liu, Weiwei Jin, Qian Wang, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Revolutionizing Point Cloud Classification with Multiview Self-Supervised Learning]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (**ICSP 2024最佳论文奖**, Oral Presentation).  [CODE click HERE.]( )|
-|**Wei Zhou※**, Weiwei Jin, Qian Wang, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Unveiling the Power of Dual Positional Encoding in Point Cloud Learning with DPAtteNet]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
-|**Wei Zhou※**, Weiwei Jin, Qian Wang, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[Global Mask Autoencoder for Streamlined Point Cloud Learning and Voxel Token Integration]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
-|**Wei Zhou※**, Qian Wang, Weiwei Jin, Kunlong Liu, Yunfeng She, Yongxiang Yu and Caiwen Ma. "[SMNet: Surface Feature Extraction Network using Multi-scale Strategy]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
-|**Wei Zhou※**, Yunfeng She, Weiwei Jin, Qian Wang, Kunlong Liu, Yongxiang Yu and Caiwen Ma. "[Enhancing Point Cloud Robustness through Cylindrical Coordinate Masking in PointCut]()". **The 17th lEEE International Conference on Signal Processing (ICSP 2024)**, 2024. (Oral Presentation).  [CODE click HERE.]( )|
-|Xiwen Yang, Xingxing Hao, Li Chen, Dekui Wang, **Wei Zhou** and Wei Liu. "[A Novel Two-Stage Evolutionary Algorithm for Constrained Multiobjective Optimization]()". **The 5th International Conference on Data-driven Optimization of Complex Systems (DOCS 2023)**, 2023. [CODE click HERE.]( )|
-|Yao Hu, **Wei Zhou**, Guohua Geng, Kang Li※, Xingxing Hao and Xin Cao. "[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)]()". **The 5th International Conference on Computer Science and Application Engineering (CSAE 2021)**, 2021.  [CODE click HERE.]( )|
 
 发明专利
 ===
