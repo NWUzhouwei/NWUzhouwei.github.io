@@ -154,7 +154,7 @@ redirect_from:
 - ICCV 2025 Reviewer
 - ECCV 2026 Reviewer
 - NeurIPS 2026 Reviewer
-- ICSP 2024分会主席
+- ICSP 2024 Session Chair（分会主席）
 - 陕西省计算机学会第九届理事会会员代表
 - 陕西省计算机学会媒体计算专委会委员
 
