@@ -149,7 +149,7 @@ redirect_from:
 ======
 - ICML 2026 Golden Reviewer（金牌审稿人）
 - Pacific Graphics 2026 Technical Program Committee & IPC（国际程序委员会）
-- AAAI 2026 Program Committee
+- AAAI 2027/2026 Program Committee
 - CVPR 2026 Reviewer
 - ICCV 2025 Reviewer
 - ECCV 2026 Reviewer
