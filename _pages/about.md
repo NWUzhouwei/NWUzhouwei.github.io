@@ -12,11 +12,12 @@ redirect_from:
 - 联系方式：[mczhouwei12@gmail.com](mailto:mczhouwei12@gmail.com)、[zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)
 - 招生专业：软件工程，计算机科学与技术，新一代电子信息技术（含量子技术等）
 - [谷歌学术个人主页](https://scholar.google.com/citations?user=i11Hs2kAAAAJ&hl=zh-CN)
-- 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，ICML金牌审稿人，CVPR、ICCV、ECCV、NeurIPS、AAAI审稿人，Pacific Graphics 2026 Technical Program Committee与IPC，ICSP 2024分会主席，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
+- 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，AAAI领域主席，ICML金牌审稿人，CVPR、ICCV、ECCV、NeurIPS、AAAI审稿人，Pacific Graphics 2026 Technical Program Committee与IPC，ICSP 2024分会主席，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
 
 🔥最新动态
 ====== 
 <ul type="circle">
+  <li>2026-06-23：🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Senior Program Commitee（领域主席）。 </li>
   <li>2026-06-23：🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Program Committee。 </li>
   <li>2026-06-20：🔥🔥🔥论文Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity被第19届人工智能顶会&机器学习顶会<a href="https://eccv.ecva.net/">ECCV 2026</a>接收。 </li>
   <li>2026-06-16：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的<a href="https://pacificgraphics2026.github.io/">Technical Program Committee</a>。 </li>
@@ -149,6 +150,7 @@ redirect_from:
 ======
 - ICML 2026 Golden Reviewer（金牌审稿人）
 - Pacific Graphics 2026 Technical Program Committee & IPC（国际程序委员会）
+- AAAI 2027 Senior Program Commitee（领域主席）
 - AAAI 2027/2026 Program Committee
 - CVPR 2026 Reviewer
 - ICCV 2025 Reviewer
