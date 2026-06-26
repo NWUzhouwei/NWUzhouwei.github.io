@@ -17,7 +17,7 @@ redirect_from:
 🔥最新动态
 ====== 
 <ul type="circle">
-  <li>2026-06-23：🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Senior Program Commitee（领域主席）。 </li>
+  <li>2026-06-23：🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Senior Program Commitee（领域主席Area Chair）。 </li>
   <li>2026-06-23：🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Program Committee。 </li>
   <li>2026-06-20：🔥🔥🔥论文Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity被第19届人工智能顶会&机器学习顶会<a href="https://eccv.ecva.net/">ECCV 2026</a>接收。 </li>
   <li>2026-06-16：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的<a href="https://pacificgraphics2026.github.io/">Technical Program Committee</a>。 </li>
