@@ -17,6 +17,8 @@ redirect_from:
 🔥最新动态
 ====== 
 <ul type="circle">
+  <li>2026-09-21：🔥🔥🔥主持获批2026国家外国专家个人类项目(H类-信息科学领域)。 </li>
+  <li>2026-09-21：🔥当选第15届人工智能顶会<a href="https://iclr.cc/">ICLR 2027</a>的Reviewer。 </li>
   <li>2026-06-23：🔥🔥🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Senior Program Commitee（领域主席Area Chair）。 </li>
   <li>2026-06-23：🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Program Committee。 </li>
   <li>2026-06-20：🔥🔥🔥论文Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity被第19届人工智能顶会&机器学习顶会<a href="https://eccv.ecva.net/">ECCV 2026</a>接收。 </li>
@@ -152,6 +154,7 @@ redirect_from:
 - Pacific Graphics 2026 Technical Program Committee & IPC（国际程序委员会）
 - AAAI 2027 Senior Program Commitee（领域主席）
 - AAAI 2027/2026 Program Committee
+- ICLR 2027 Reviewer
 - CVPR 2026 Reviewer
 - ICCV 2025 Reviewer
 - ECCV 2026 Reviewer
