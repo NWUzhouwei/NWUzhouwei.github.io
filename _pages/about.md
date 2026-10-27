@@ -17,7 +17,7 @@ redirect_from:
 🔥最新动态
 ====== 
 <ul type="circle">
-  <li>2026-10-27：🔥当选第15届<a href="https://iccvm.org/2027/index.htm">CVM 2027 (亚洲图形学会（Asia Graphics）三大旗舰会议之一) </a>的Program Committee。</li>
+  <li>2026-10-27：🔥当选第15届<a href="https://iccvm.org/2027/index.htm">CVM 2027 </a>的Program Committee (亚洲图形学会（Asia Graphics）三大旗舰会议之一)。</li>
   <li>2026-09-21：🔥🔥🔥主持获批2026国家外国专家个人类项目(H类-信息科学领域)。 </li>
   <li>2026-09-21：🔥当选第15届人工智能顶会<a href="https://iclr.cc/">ICLR 2027</a>的Reviewer。 </li>
   <li>2026-06-23：🔥🔥🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Senior Program Commitee（领域主席Area Chair）。 </li>
