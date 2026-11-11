@@ -17,6 +17,7 @@ redirect_from:
 🔥最新动态
 ====== 
 <ul type="circle">
+  <li>2026-11-11：🔥🔥🔥论文FARM-EA: A feature association rule mining-guided evolutionary algorithm for multi-objective feature selection被Top期刊<a href="https://www.sciencedirect.com/science/article/pii/S1568494626022568">Applied Soft Computing</a>接收。 </li>
   <li>2026-10-27：🔥当选第15届<a href="https://iccvm.org/2027/index.htm">CVM 2027 </a>的Program Committee (亚洲图形学会（Asia Graphics）三大旗舰会议之一)。</li>
   <li>2026-09-21：🔥🔥🔥主持获批2026国家外国专家个人类项目(H类-信息科学领域)。 </li>
   <li>2026-09-21：🔥当选第15届人工智能顶会<a href="https://iclr.cc/">ICLR 2027</a>的Reviewer。 </li>
