@@ -85,14 +85,14 @@ redirect_from:
   <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846575">SMNet</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/SMNet">代码</a>已开源。</li>
   <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846390">PointCut</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/PointCut">代码</a>已开源。</li>
   <li>2024-10-28：🔥当选17届ICSP分会主席。</li>
-  <li>2024-10-21：🔥项目《单光子成像系统仿真分析》获批中科院横向项目。 </li>
+  <!-- <li>2024-10-21：🔥项目《单光子成像系统仿真分析》获批中科院横向项目。 </li> -->
   <li>2024-10-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650224003018">LMOEA-LGCS</a> 被1区期刊SEC接收。</li>
   <li>2024-10-09：🔥<a href="https://www.nature.com/articles/s41598-024-72368-1">PRN</a> 被SCI 2区期刊SR接收，<a href="https://github.com/albestobe/PRN">代码</a>已开源。</li>
   <li>2024-09-11：🔥项目《面向破损兵马俑修复的碎片多尺度全局Token掩码学习分类研究》获批教育部人文社科青年基金。 </li>
   <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学<a href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
   <li>2024-07-29：🔥<a href="https://link.springer.com/article/10.1007/s40747-024-01600-2">HNCO</a>被SCI 2区期刊CIS接收。</li>
   <li>2024-04-15：🔥获得第十七届全国大学生软件创新大赛西北区赛三等奖（陈鸿羽，颜晓轶，杨慕然，柴佳旭）。 </li>
-  <li>2023-12-04：🔥项目《空间暗弱小目标检测跟踪技术研究》获批中科院飞行器光学成像与测量技术重点实验室开放基金。 </li>
+  <!-- <li>2023-12-04：🔥项目《空间暗弱小目标检测跟踪技术研究》获批中科院飞行器光学成像与测量技术重点实验室开放基金。 </li> -->
   <li>2023-11-22：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10294922">CMOPs</a>被5届DOCS接收。</li>
   <li>2023-11-15：🔥<a href="https://link.springer.com/article/10.1007/s00521-023-09122-7">PSM</a> 被CCF人工智能期刊NCA接收。</li>
   <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛优秀指导教师奖</a>。 </li>
