@@ -12,6 +12,7 @@ redirect_from:
 - 联系方式：[zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)、[mczhouwei12@gmail.com](mailto:mczhouwei12@gmail.com).
 - 招生专业：软件工程（学硕&专硕），计算机科学与技术，新一代电子信息技术（含量子技术等）
 - [谷歌学术个人主页](https://scholar.google.com/citations?user=i11Hs2kAAAAJ&hl=zh-CN)
+- 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，AAAI领域主席，ICML金牌审稿人，CVPR、ICCV、ECCV、NeurIPS、ICML、ICLR、AAAI审稿人，Pacific Graphics 2026 Technical Program Committee与IPC，ICSP 2024分会主席，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
 <div style="background-color: #f8f9fa; border-left: 4px solid #d9534f; padding: 16px 20px; margin: 20px 0; border-radius: 4px;">
   <h3 style="margin-top: 0; color: #c9302c;">📢 课题组长期招募 & 顶级算力平台支持（2026–2027）</h3>
   <p><strong>【研究方向】</strong> 面向前沿三维视觉与具身智能，重点布局：<strong>① 3D 视觉与几何重建</strong>（点云理解、3D Gaussian Splatting、3D Occupancy）；<strong>② 具身智能与大模型</strong>（Embodied AI、VLA 视觉-语言-动作大模型、多模态空间推理）。</p>
@@ -23,7 +24,6 @@ redirect_from:
   </ul>
   <p style="margin-bottom: 0;"><strong>【招募对象与算力机制】</strong> 欢迎报考本组博士/硕士研究生（保研、考研），同时<strong>面向校内外优秀本科生、科研实习生开放“算力支持 + 论文指导”远程/线下合作</strong>。组内实行<strong>“基础算力全员保障，H20/H200 旗舰集群按项目进度与顶会冲刺优先级动态调度”</strong>，全力支持有冲劲、执行力强的同学冲击 CVPR / ICCV / ECCV / NeurIPS / ICML / ICLR / AAAI 等顶级会议！有意向请发送简历至：<code>zhouwei@nwu.edu.cn</code>。</p>
 </div>
-- 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，AAAI领域主席，ICML金牌审稿人，CVPR、ICCV、ECCV、NeurIPS、ICML、ICLR、AAAI审稿人，Pacific Graphics 2026 Technical Program Committee与IPC，ICSP 2024分会主席，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
 
 🔥最新动态
 ====== 
