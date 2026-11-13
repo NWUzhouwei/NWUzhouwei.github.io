@@ -8,162 +8,133 @@ redirect_from:
   - /about.html
 ---
 
+**周伟**，博士，**西北大学计算机学院硕士生导师**（2018年毕业于中国科学院大学，德国弗劳恩霍夫协会 IGD 研究所 / 达姆施塔特工业大学联合培养博士）。担任 **AAAI 2027 领域主席（Senior Program Committee）**、**ICML 2026 金牌审稿人（Gold Reviewer）**、Pacific Graphics 2026 IPC & TPC、CVM 2027 PC，以及 CVPR、ICCV、ECCV、NeurIPS、ICML、ICLR、AAAI 等人工智能与计算机视觉顶会审稿人。
 
-- 联系方式：[zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)、[mczhouwei12@gmail.com](mailto:mczhouwei12@gmail.com).
-- 招生专业：软件工程（学硕&专硕），计算机科学与技术，新一代电子信息技术（含量子技术等）
-- [谷歌学术个人主页](https://scholar.google.com/citations?user=i11Hs2kAAAAJ&hl=zh-CN)
-- 九三学社社员，九三学社西北大学支社支委，九三学社陕西省委参政议政成员，九三学社陕西省基层组织负责人，AAAI领域主席，ICML金牌审稿人，CVPR、ICCV、ECCV、NeurIPS、ICML、ICLR、AAAI审稿人，Pacific Graphics 2026 Technical Program Committee与IPC，ICSP 2024分会主席，全国大学生光电设计竞赛“国赛优秀指导教师”、西北区赛优秀指导教师，陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF中国计算机学会会员，西北大学，计算机学院，硕士生导师。
+近年来，主持科技部/文旅部国家重点研发计划子课题、国家自然科学基金面上项目、国家外国专家个人类项目（H类）、教育部人文社科青年基金、陕西省重点研发计划、中国科学院重点实验室开放基金等国家级、省部级课题 10 余项；在 ECCV、ICML、IEEE T-ITS、TCAD、CAG、ESWA 等国内外顶级会议与期刊发表学术论文 30 余篇（SCI 检索 20 余篇），获授权国家发明专利多项；指导学生获全国大学生光电设计竞赛“国赛一等奖”及“国赛优秀指导教师”、中国大学生计算机设计大赛西北赛区一等奖、ICSP 2024 最佳论文奖及硕士生国家奖学金等多项荣誉。
+
+- **招生专业**：计算机科学与技术、软件工程（学硕 & 专硕）、新一代电子信息技术（含量子技术等）
+- **联系方式**：[zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn) / [mczhouwei12@gmail.com](mailto:mczhouwei12@gmail.com)
+- **学术主页**：[Google Scholar 谷歌学术](https://scholar.google.com/citations?user=i11Hs2kAAAAJ&hl=zh-CN)
+- **社会与学会兼职**：九三学社社员（西北大学支社支委、陕西省委参政议政成员、陕西省基层组织负责人），陕西省计算机学会第九届理事会会员代表，陕西省计算机学会媒体计算专委会委员，CCF 中国计算机学会会员。
 
 🚀招生与算力支持
 ======
 - **研究方向**：三维视觉与几何重建（点云理解、3D Gaussian Splatting、3D Occupancy）、具身智能与大模型（Embodied AI、VLA 视觉-语言-动作大模型、多模态空间推理）。
 - **算力平台**：课题组现已部署投运 **8 × NVIDIA H20（单卡 98GB HBM3 显存，整机近 800GB 显存）** 旗舰训练集群；依托深度校企合作，预计后续引入 **8 × NVIDIA H200（单卡 141GB HBM3e 显存）** 算力节点，全面消除大模型与大尺度三维场景研发的显存瓶颈。
-- **招募计划**：常年招收硕士研究生（保研、考研），同时面向校内外优秀本科生及科研实习生开放 **“算力支持 + 论文指导”**（支持线下/远程合作）。有意向请发送简历至 [zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)。
-- **调度机制**：实行 **“本地轻量化调试 + 旗舰集群项目制动态调度”** 模式，算力资源优先向推进速度快、冲刺 CVPR / ICCV / ECCV / NeurIPS / ICML / ICLR / AAAI 等顶级会议的课题倾斜。
+- **招募计划**：常年招收硕士研究生（保研、考研），同时面向校内外优秀本科生及科研实习生开放**“算力支持 + 论文指导”**（支持线下/远程合作）。有意向请发送简历至 [zhouwei@nwu.edu.cn](mailto:zhouwei@nwu.edu.cn)。
+- **调度机制**：实行**“本地轻量化调试 + 旗舰集群项目制动态调度”**模式，算力资源优先向推进速度快、冲刺 CVPR / ICCV / ECCV / NeurIPS / ICML / ICLR / AAAI 等顶级会议的课题倾斜。
 
 🔥最新动态
 ====== 
 <ul type="circle">
-  <li>2026-11-06：🔥🔥🔥课题组正式部署投运 8 × NVIDIA H20（单卡98GB显存）旗舰算力集群，并依托深度校企合作推进 8 × NVIDIA H200（单卡141GB显存）二期扩容计划，全面赋能三维视觉与具身智能（VLA大模型）前沿研究。</li>
-  <li>2026-11-09：🔥🔥🔥论文FARM-EA: A feature association rule mining-guided evolutionary algorithm for multi-objective feature selection被SCI 1区 Top期刊<a href="https://www.sciencedirect.com/science/article/pii/S1568494626022568">Applied Soft Computing</a>接收。 </li>
-  <li>2026-10-27：🔥当选第15届<a href="https://iccvm.org/2027/index.htm">CVM 2027 </a>的Program Committee (亚洲图形学会（Asia Graphics）三大旗舰会议之一)。</li>
-  <li>2026-09-21：🔥🔥🔥主持获批2026国家外国专家个人类项目(H类-信息科学领域)。 </li>
-  <li>2026-09-21：🔥当选第15届人工智能顶会<a href="https://iclr.cc/">ICLR 2027</a>的Reviewer。 </li>
-  <li>2026-06-23：🔥🔥🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Senior Program Commitee（领域主席Area Chair）。 </li>
-  <li>2026-06-23：🔥当选第41届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a>的Program Committee。 </li>
-  <li>2026-06-20：🔥🔥🔥论文Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity被第19届人工智能顶会&机器学习顶会<a href="https://eccv.ecva.net/">ECCV 2026</a>接收。 </li>
-  <li>2026-06-16：🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的<a href="https://pacificgraphics2026.github.io/">Technical Program Committee</a>。 </li>
-  <li>2026-06-11：🔥🔥🔥2023级硕士刘坤龙获得<a href="">2026届优秀毕业生</a> & 国家奖学金 & 优秀学位论文。</li>
-  <li>2026-06-06：🔥🔥🔥当选第34届计算机图形学顶会<a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a>的IPC（国际程序委员会）。 </li>
-  <li>2026-05-14：🔥🔥🔥获得第43届人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Gold Reviewer称号。 </li>
-  <li>2026-05-08：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=0e13605e37634778983b816273ac0a77">国赛三等奖</a>（智联茂境:多Agent任务驱动型一站式AI互动服务平台）。</li>
-  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛一等奖（《智联瀚海——多agent任务驱动型一站式AI多端服务平台》）。</li>
-  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《银龄智伴 — 社区老年人关怀服务平台》）。</li>
-  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《知巷博客系统》）。</li>
-  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《星火学航——基于提示词工程和学习过程建模的学习导航》）。</li>
-  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛三等奖（《领航AI大学生就业服务平台》）。</li>
-  <li>2026-04-30：🔥🔥🔥论文A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification被第43届人工智能顶会&机器学习顶会<a href="https://icml.cc/">ICML 2026</a>接收。 </li>
-  <li>2026-04-27：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=740a7ad8a682416b84bb084858748131">（西北区赛）一等奖</a>（赛区前8，智联茂境:多Agent任务驱动型一站式AI互动服务平台）。</li>
-  <li>2026-04-16：🔥论文Bayesian MAP-Guided Self-Adaptive Learning for Robust Motion Blur Kernel Estimation in Imaging被第48届生物医学工程年会<a href="https://embc.embs.org/2026/">EMBC 2026</a>接收。 </li>
-  <li>2026-04-16：🔥论文A Modular Engineered Probiotic Platform for Synergistic Anti-Obesity Treatment via Dual Metabolite and Peptide Delivery被第48届生物医学工程年会<a href="https://embc.embs.org/2026/">EMBC 2026</a>接收。 </li>
-  <li>2026-04-16：🔥论文Coupling-Aware Evidential Transfer Learning for Motor Imagery EEG Decoding被第48届生物医学工程年会<a href="https://embc.embs.org/2026/">EMBC 2026</a>接收。 </li>
-  <li>2026-03-25：🔥当选第40届人工智能顶会<a href="https://neurips.cc/">NeurIPS 2026</a>的Reviewer。 </li>
-  <li>2026-02-09：🔥当选第19届人工智能顶会<a href="https://eccv.ecva.net/">ECCV 2026</a>的Reviewer。 </li>
-  <li>2026-02-03：🔥当选第43届人工智能顶会<a href="https://icml.cc/">ICML 2026</a>的Reviewer。 </li>
-  <li>2026-01-22：🔥论文<a href="https://ieeexplore.ieee.org/document/11395315">Towards Safe Driving: Efficient Detection of Small Blurred Signs in Real-World Scenarios</a>被1区Top期刊IEEE Transactions on Intelligent Transportation Systems接收。 </li>
-  <li>2025-12-05：🔥发明专利ZL202411935562.5已授权。 </li>
-  <li>2025-11-12：🔥当选人工智能顶会<a href="https://cvpr.thecvf.com/">CVPR 2026</a>的Reviewer。 </li>
-  <li>2025-11-11：🔥发明专利ZL202211410494.1已授权。 </li>
-  <li>2025-10-31：🔥获得2025中国国际大学生创新大赛铜奖（大模型MCP驱动的智能教育信息集成平台）。 </li>
-  <li>2025-10-28：🔥发明专利ZL202411977023.8已授权。 </li>
-  <li>2025-10-17：🔥发明专利ZL202411949123.X已授权。 </li>
-  <li>2025-10-11：🔥论文<a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被SCI期刊EPSR接收。</li>
-  <li>2025-10-10：🔥2023级硕士刘坤龙获得硕士生国家奖学金。 </li>
-  <li>2025-08-19：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=9567&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛三等奖（郑少毅，吴启迪，张丰毅）</a>。 </li>
-  <li>2025-08-06：🔥当选第40届人工智能顶会<a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>的Program Committee。 </li>
-  <li>2025-07-27：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）“优秀指导教师”</a>。</li>
-  <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）一等奖（郑少毅，吴启迪，张丰毅）</a>。</li>
-  <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）一等奖（张骞，何晨语，陈玉锋）</a>。</li>
-  <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）一等奖（俞浩，郭凌馨，杨慕然）</a>。</li>
-  <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）二等奖（韩艺豪，凌春燕，潘梓琛）</a>。</li>
-  <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）二等奖（朱进荣，李梓轩，丁慧杰）</a>。</li>
-  <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）三等奖（刘宇洋，颜玉衡，黄映虹）</a>。</li>
-  <li>2025-07-26：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">（西北区赛）三等奖（张笑阳，陈康元，杨心月）</a>。</li>
+  <li>2026-11-13：🔥🔥🔥课题组正式部署投运 8 × NVIDIA H20（单卡98GB显存）旗舰算力集群，并依托深度校企合作推进 8 × NVIDIA H200（单卡141GB显存）二期扩容计划，全面赋能三维视觉与具身智能（VLA大模型）前沿研究。</li>
+  <li>2026-11-09：🔥🔥🔥论文 FARM-EA: A feature association rule mining-guided evolutionary algorithm for multi-objective feature selection 被 SCI 1区 Top 期刊 <a href="https://www.sciencedirect.com/science/article/pii/S1568494626022568">Applied Soft Computing</a> 接收。</li>
+  <li>2026-10-27：🔥当选第15届 <a href="https://iccvm.org/2027/index.htm">CVM 2027</a> 的 Program Committee（亚洲图形学会 Asia Graphics 三大旗舰会议之一）。</li>
+  <li>2026-09-21：🔥🔥🔥主持获批 2026 国家外国专家个人类项目（H类-信息科学领域）。</li>
+  <li>2026-09-21：🔥当选第15届人工智能顶会 <a href="https://iclr.cc/">ICLR 2027</a> 的 Reviewer。</li>
+  <li>2026-06-23：🔥🔥🔥当选第41届人工智能顶会 <a href="https://aaai.org/conference/aaai/aaai-27/">AAAI 2027</a> 的 Senior Program Committee（领域主席 Area Chair）及 Program Committee。</li>
+  <li>2026-06-20：🔥🔥🔥论文 Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity 被人工智能顶会 <a href="https://eccv.ecva.net/">ECCV 2026</a> 接收。</li>
+  <li>2026-06-16：🔥当选第34届计算机图形学顶会 <a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a> 的 Technical Program Committee。</li>
+  <li>2026-06-11：🔥🔥🔥2023级硕士刘坤龙获得 2026 届优秀毕业生、国家奖学金及优秀学位论文。</li>
+  <li>2026-06-06：🔥🔥🔥当选第34届计算机图形学顶会 <a href="https://pacificgraphics2026.github.io/">Pacific Graphics 2026</a> 的 IPC（国际程序委员会）。</li>
+  <li>2026-05-14：🔥🔥🔥获得第43届人工智能顶会 <a href="https://icml.cc/">ICML 2026</a> 的 Gold Reviewer 称号。</li>
+  <li>2026-05-08：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=0e13605e37634778983b816273ac0a77">国赛三等奖</a>（智联茂境：多Agent任务驱动型一站式AI互动服务平台）。</li>
+  <li>2026-05-01：🔥获得2026年中国大学生计算机设计大赛西北地区赛一等奖 1 项（《智联瀚海》）、三等奖 4 项（《银龄智伴》《知巷博客系统》《星火学航》《领航AI大学生就业服务平台》）。</li>
+  <li>2026-04-30：🔥🔥🔥论文 A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification 被机器学习顶会 <a href="https://icml.cc/">ICML 2026</a> 接收。</li>
+  <li>2026-04-27：🔥获得第十九届全国大学生软件创新大赛<a href="https://www.swcontest.com.cn/information?activeTab=notice&detailId=740a7ad8a682416b84bb084858748131">西北区赛一等奖</a>（赛区前8，智联茂境：多Agent任务驱动型一站式AI互动服务平台）。</li>
+  <li>2026-04-16：🔥3篇论文（Bayesian MAP-Guided Self-Adaptive Learning... / A Modular Engineered Probiotic Platform... / Coupling-Aware Evidential Transfer Learning...）被第48届生物医学工程年会 <a href="https://embc.embs.org/2026/">EMBC 2026</a> 接收。</li>
+  <li>2026-03-25：🔥当选第40届人工智能顶会 <a href="https://neurips.cc/">NeurIPS 2026</a> 的 Reviewer。</li>
+  <li>2026-02-09：🔥当选第19届人工智能顶会 <a href="https://eccv.ecva.net/">ECCV 2026</a> 的 Reviewer。</li>
+  <li>2026-02-03：🔥当选第43届人工智能顶会 <a href="https://icml.cc/">ICML 2026</a> 的 Reviewer。</li>
+  <li>2026-01-22：🔥论文 <a href="https://ieeexplore.ieee.org/document/11395315">Towards Safe Driving: Efficient Detection of Small Blurred Signs in Real-World Scenarios</a> 被 1区 Top 期刊 IEEE Transactions on Intelligent Transportation Systems 接收。</li>
+  <li>2025-12-05：🔥发明专利 ZL202411935562.5 已授权。</li>
+  <li>2025-11-12：🔥当选人工智能顶会 <a href="https://cvpr.thecvf.com/">CVPR 2026</a> 的 Reviewer。</li>
+  <li>2025-11-11：🔥发明专利 ZL202211410494.1 已授权。</li>
+  <li>2025-10-31：🔥获得 2025 中国国际大学生创新大赛铜奖（大模型MCP驱动的智能教育信息集成平台）。</li>
+  <li>2025-10-28：🔥发明专利 ZL202411977023.8 已授权。</li>
+  <li>2025-10-17：🔥发明专利 ZL202411949123.X 已授权。</li>
+  <li>2025-10-11：🔥论文 <a href="https://www.sciencedirect.com/science/article/pii/S0378779625009551">VCBs</a> 被 SCI 期刊 EPSR 接收。</li>
+  <li>2025-10-10：🔥2023级硕士刘坤龙获得硕士生国家奖学金。</li>
+  <li>2025-08-19：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=9567&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛三等奖</a>（郑少毅，吴启迪，张丰毅）。</li>
+  <li>2025-08-06：🔥当选第40届人工智能顶会 <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a> 的 Program Committee。</li>
+  <li>2025-07-27：🔥获得第十三届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=9545">西北区赛“优秀指导教师”</a>，指导团队获一等奖 3 项、二等奖 2 项、三等奖 2 项。</li>
   <li>2025-07-15：🔥2022级硕士金卫卫、石忻哲、王倩分别入职江西工程学院、保利发展、小米科技。</li>
-  <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛一等奖（《基于 Vite+Vue+TS 的三秦旅游网站》）。</li>
-  <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛二等奖（《慧聚云图》）。</li>
-  <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛二等奖（《学生注意力监测系统：物联网技术赋能教育》）。</li>
-  <li>2025-06-30：🔥获得2025年中国大学生计算机设计大赛西北地区赛三等奖（《智汇学途——大模型MCP驱动的智能教育信息集成平台》）。</li>
-  <li>2025-06-20：🔥项目《“新工科”建设视角下Java程序设计课程教学改革研究》获批全国高等院校计算机基础教育研究会计算机基础教育教学研究课题。 </li>
+  <li>2025-06-30：🔥获得 2025 年中国大学生计算机设计大赛西北地区赛一等奖 1 项、二等奖 2 项、三等奖 1 项。</li>
+  <li>2025-06-20：🔥项目《“新工科”建设视角下Java程序设计课程教学改革研究》获批全国高等院校计算机基础教育研究会教学研究课题。</li>
   <li>2025-06-15：🔥2022级硕士金卫卫获得<a href="https://www.nwu.edu.cn/info/1200/40892.htm">2025届优秀毕业生</a>。</li>
-  <li>2025-05-28：🔥《慧知—记忆化知识图谱资料处理与自动化生活管理助手》获批2025年大学生创新训练计划项目一般项目。</li>
-  <li>2025-05-28：🔥《基于半监督学习的社交媒体评论情感分析》获批2025年大学生创新训练计划项目一般项目。</li>
-  <li>2025-05-28：🔥《“智诊宝”智能诊断系统—基于深度学习与自然语言处理的医疗辅助诊断系统》获批2025年大学生创新训练计划项目一般项目。</li>
-  <li>2025-05-06：🔥省级大学生创新训练计划项目《基于跨模态注意力机制和强化学习联合模型的多模态情感识别与人格分析可视化系统》获批2025年大学生创新训练计划项目优秀结题项目。</li>
-  <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
-  <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被1区Top顶刊ESWA接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
-  <li>2025-01-22：🔥项目《Java Programming》获批西北大学2024年全英文教学课程提升项目。 </li>
-  <li>2024-12-10：🔥项目《数字化背景下环境设计专业应用型人才培养模式研究》获批陕西省“十四五”教育科学规划2024年度课题。 </li>
-  <li>2024-12-06：🔥《基于跨模态注意力机制和强化学习联合模型的多模态情感识别与人格分析可视化系统》获批2024年大学生创新训练计划项目省级立项。</li>
-  <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp">GRSI</a>验证（浙江大学<a href="https://github.com/ghy0324">郭浩宇</a>）。</li>
-  <li>2024-10-30：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a>获评17届ICSP最佳会议论文，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
-  <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846277">VP-GMAE</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/VP-GMAE">代码</a>已开源。</li>
-  <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846792">DPAtteNet</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/DPAtteNet">代码</a>已开源。</li>
-  <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
-  <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846575">SMNet</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/SMNet">代码</a>已开源。</li>
-  <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846390">PointCut</a>被17届ICSP接收，<a href="https://github.com/NWUzhouwei/PointCut">代码</a>已开源。</li>
-  <li>2024-10-28：🔥当选17届ICSP分会主席。</li>
-  <!-- <li>2024-10-21：🔥项目《单光子成像系统仿真分析》获批中科院横向项目。 </li> -->
-  <li>2024-10-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650224003018">LMOEA-LGCS</a> 被1区期刊SEC接收。</li>
-  <li>2024-10-09：🔥<a href="https://www.nature.com/articles/s41598-024-72368-1">PRN</a> 被SCI 2区期刊SR接收，<a href="https://github.com/albestobe/PRN">代码</a>已开源。</li>
-  <li>2024-09-11：🔥项目《面向破损兵马俑修复的碎片多尺度全局Token掩码学习分类研究》获批教育部人文社科青年基金。 </li>
-  <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学<a href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
-  <li>2024-07-29：🔥<a href="https://link.springer.com/article/10.1007/s40747-024-01600-2">HNCO</a>被SCI 2区期刊CIS接收。</li>
-  <li>2024-04-15：🔥获得第十七届全国大学生软件创新大赛西北区赛三等奖（陈鸿羽，颜晓轶，杨慕然，柴佳旭）。 </li>
-  <!-- <li>2023-12-04：🔥项目《空间暗弱小目标检测跟踪技术研究》获批中科院飞行器光学成像与测量技术重点实验室开放基金。 </li> -->
-  <li>2023-11-22：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10294922">CMOPs</a>被5届DOCS接收。</li>
-  <li>2023-11-15：🔥<a href="https://link.springer.com/article/10.1007/s00521-023-09122-7">PSM</a> 被CCF人工智能期刊NCA接收。</li>
-  <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛优秀指导教师奖</a>。 </li>
-  <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛一等奖（孙新妍，张款，黄玢艳）</a>。 </li>
-  <li>2023-07-30：🔥获得第十二届中国软件杯大学生软件设计大赛西部赛区三等奖（何铖俊）。 </li>
-  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=5353&path=%2Fdatacenter%2Fnews%2Fdynamicevents">西北区赛优秀指导教师奖</a>。 </li>
-  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=5353&path=%2Fdatacenter%2Fnews%2Fdynamicevents">西北区赛一等奖（孙新妍，张款，黄玢艳）</a>。 </li>
-  <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=5353&path=%2Fdatacenter%2Fnews%2Fdynamicevents">西北区赛三等奖（刘畅，苏锦泉，马萌阳）</a>。 </li>
-  <li>2023-07-15：🔥获得第十八届中国研究生电子设计竞赛西北区赛三等奖（金卫卫，王一凡，刘坤龙）。 </li>
-  <li>2023-07-15：🔥获得第十八届中国研究生电子设计竞赛西北区赛三等奖（王倩，佘昀峰，石忻哲）。 </li>
-  <li>2023-06-10：🔥获得西北大学2023年大学生光电设计竞赛一等奖（孙新妍，张款，黄玢艳）。 </li>
-  <li>2023-06-10：🔥获得西北大学2023年大学生光电设计竞赛二等奖（刘畅，苏锦泉，马萌阳）。 </li>
-  <li>2023-05-10：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10122622">PRoute</a> 被CCF A类期刊TCAD接收。</li>
-  <li>2023-03-31：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849323000377">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/MPVConv">代码</a>已开源。</li>
-  <li>2022-11-15：🔥大学生创新创业训练计划项目获省级立项（何铖俊，薛杨，朱泽昊）。 </li>
-  <li>2022-08-11：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650222001201">Bi-level offspring generation</a> 被SCI 1区期刊SEC接收。</li>
-  <li>2022-07-12：🔥<a href="https://link.springer.com/article/10.1007/s11063-022-10966-8">T-E-GRU</a> 被CCF人工智能期刊NPL接收，<a href="https://github.com/NWUzhouwei/T-E-GRU">代码</a>已开源。</li>
-  <li>2022-07-06：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9816052">FCRoute</a> 被CCF A类期刊TCAD接收。</li>
-  <li>2022-10-30：🔥项目《复杂文物发掘场景下的三维特征分析》获批陕西省教育厅专项科研计划项目。 </li>
-  <li>2021-11-07：🔥<a href="https://dl.acm.org/doi/abs/10.1145/3487075.3487092">SRG-Net</a>被5届CSAE接收，<a href="https://github.com/NWUzhouwei/SRGNet">代码</a>已开源。</li>
-  <li>2021-09-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402621015849">A self-adaptive learning method</a> 被SCI期刊Optik接收。</li>
-  <li>2021-09-15：🔥大学生创新创业训练计划项目获国家级立项（魏浩文，康笑瑞，杨子阅）。 </li>
-  <li>2021-07-30：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779621004740">Prestrike inrush</a> 被SCI期刊EPSR接收。</li>
-  <li>2020-11-20：🔥<a href="https://pubs.aip.org/aip/jap/article-abstract/128/19/193104/346722/A-deep-unsupervised-clustering-based-post?redirectedFrom=fulltext">Unsupervised clustering-based post-processing</a> 被SCI期刊JAP接收。</li>
-  <li>2020-09-02：🔥<a href="https://opg.optica.org/josaa/abstract.cfm?uri=josaa-37-11-1711">3D Terracotta Warrior Simplification</a> 被SCI期刊JOSA A接收。</li>
-  <li>2020-09-01：🔥<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238259">Single image restoration</a> 被SCI期刊Plos One接收。</li>
-  <li>2020-06-30：🔥项目《基于局部特征描述符的复杂文物发掘场景下的三维目标识别研究与应用》获批陕西省重点研发计划。 </li>
-  <li>2020-03-13：🔥项目《智慧博物馆关键技术研发和示范》获批国家重点研发计划。 </li>
-  <li>2020-02-19：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9003277">URT</a> 被SCI期刊IEEE Access接收。</li>
-  <li>2020-02-16：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402620302783">IE-FBM</a> 被SCI期刊Optik接收。</li>
-  <li>2018-09-15：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849318301468">FFIS</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
-  <li>2018-02-10：🔥<a href="https://link.springer.com/article/10.1007/s00371-018-1478-x">HGND</a> 被CCF计算机图形学与多媒体期刊TVCJ接收。</li>
-  <li>2018-01-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849318300116">Hough-space-based HG</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
-  <li>2016-07-21：🔥获批中国科学院大学留学项目资助前往德国联合培养、访学。 </li>
+  <li>2025-05-28：🔥指导获批 2025 年大学生创新训练计划项目 3 项，省级大创项目获优秀结题。</li>
+  <li>2025-04-25：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849325000792">点云分类分割综述论文</a> 被 CCF 计算机图形学与多媒体期刊 CAG 接收。</li>
+  <li>2025-02-17：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417425005822">CCMNet</a> 被 1区 Top 顶刊 ESWA 接收，<a href="https://github.com/NWUzhouwei/CCMNet">代码</a>已开源。</li>
+  <li>2025-01-22：🔥项目《Java Programming》获批西北大学 2024 年全英文教学课程提升项目。</li>
 </ul>
 
-- 近年来，承担了科技部国家重点研发计划专项、文旅部国家重点研发计划、国家自然科学基金面上项目、陕西省重点研发计划、陕西省教育厅专项科研计划项目、中国科学院开放基金等国家级、省部级课题近10项。发表学术论文30余篇，SCI检索论文20余篇。获得的荣誉主要包括：指导学生获得全国大学生光电设计竞赛“国赛一等奖”、“国赛三等奖”、“西北区赛一等奖”；指导学生获批大学生创新创业训练计划项目“国家级项目立项”、“省级项目立项”；指导学生获得中国大学生计算机设计大赛“西北区赛一等奖”；ICSP 2024最佳论文奖。
-
-
-教育经历
-======
-- 2016.10-2017.10, 联合培养博士，德国弗劳恩霍夫协会IGD研究所, Computer Science
-
-- 2013.08-2018.09, 博士，中国科学院大学, 信号与信息处理
-
-- 2009.08-2013.07, 本科，西安电子科技大学, 电子信息工程
+<details>
+  <summary><strong>📂 点击展开更多历史动态（2016 – 2024）</strong></summary>
+  <ul type="circle">
+    <li>2024-12-10：🔥项目《数字化背景下环境设计专业应用型人才培养模式研究》获批陕西省“十四五”教育科学规划2024年度课题。</li>
+    <li>2024-12-06：🔥《基于跨模态注意力机制和强化学习联合模型的多模态情感识别与人格分析可视化系统》获批2024年大学生创新训练计划项目省级立项。</li>
+    <li>2024-11-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324002772">SSMP</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/SSMP">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-ssmp">GRSI</a>验证（浙江大学<a href="https://github.com/ghy0324">郭浩宇</a>）。</li>
+    <li>2024-10-30：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846141">MVMAE</a> 被17届ICSP接收并获评<strong>最佳会议论文</strong>，<a href="https://github.com/NWUzhouwei/MVMAE">代码</a>已开源。</li>
+    <li>2024-10-29：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846277">VP-GMAE</a>、<a href="https://ieeexplore.ieee.org/abstract/document/10846792">DPAtteNet</a> 被17届ICSP接收，代码均已开源。</li>
+    <li>2024-10-28：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10846575">SMNet</a>、<a href="https://ieeexplore.ieee.org/abstract/document/10846390">PointCut</a> 被17届ICSP接收，代码均已开源；当选17届ICSP分会主席。</li>
+    <li>2024-10-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650224003018">LMOEA-LGCS</a> 被1区期刊SEC接收。</li>
+    <li>2024-10-09：🔥<a href="https://www.nature.com/articles/s41598-024-72368-1">PRN</a> 被SCI 2区期刊SR接收，<a href="https://github.com/albestobe/PRN">代码</a>已开源。</li>
+    <li>2024-09-11：🔥项目《面向破损兵马俑修复的碎片多尺度全局Token掩码学习分类研究》获批教育部人文社科青年基金。</li>
+    <li>2024-08-19：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849324001857">GTNet</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/GTNet">代码</a>已开源，代码已通过<a href="https://www.replicabilitystamp.org/#https-github-com-nwuzhouwei-gtnet">GRSI</a>验证（深圳大学<a href="https://vcc.tech/~huihuang">黄慧</a>）。</li>
+    <li>2024-07-29：🔥<a href="https://link.springer.com/article/10.1007/s40747-024-01600-2">HNCO</a> 被SCI 2区期刊CIS接收。</li>
+    <li>2024-04-15：🔥获得第十七届全国大学生软件创新大赛西北区赛三等奖（陈鸿羽，颜晓轶，杨慕然，柴佳旭）。</li>
+    <li>2023-11-22：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10294922">CMOPs</a> 被5届DOCS接收。</li>
+    <li>2023-11-15：🔥<a href="https://link.springer.com/article/10.1007/s00521-023-09122-7">PSM</a> 被CCF人工智能期刊NCA接收。</li>
+    <li>2023-08-25：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛一等奖</a>及<a href="http://gd.moocollege.com/datacenter/news/detail?id=5552&path=%2Fdatacenter%2Fnews%2Fdynamicevents">国赛优秀指导教师奖</a>（孙新妍，张款，黄玢艳）。</li>
+    <li>2023-07-30：🔥获得第十二届中国软件杯大学生软件设计大赛西部赛区三等奖（何铖俊）。</li>
+    <li>2023-07-27：🔥获得第十一届全国大学生光电设计竞赛<a href="http://gdxbsq.moocollege.com/datacenter/news/detail?id=5353&path=%2Fdatacenter%2Fnews%2Fdynamicevents">西北区赛一等奖、三等奖及“优秀指导教师奖”</a>。</li>
+    <li>2023-07-15：🔥获得第十八届中国研究生电子设计竞赛西北区赛三等奖 2 项。</li>
+    <li>2023-06-10：🔥获得西北大学2023年大学生光电设计竞赛一等奖、二等奖。</li>
+    <li>2023-05-10：🔥<a href="https://ieeexplore.ieee.org/abstract/document/10122622">PRoute</a> 被CCF A类期刊TCAD接收。</li>
+    <li>2023-03-31：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849323000377">MPVConv</a> 被CCF计算机图形学与多媒体期刊CAG接收，<a href="https://github.com/NWUzhouwei/MPVConv">代码</a>已开源。</li>
+    <li>2022-11-15：🔥大学生创新创业训练计划项目获省级立项（何铖俊，薛杨，朱泽昊）。</li>
+    <li>2022-10-30：🔥项目《复杂文物发掘场景下的三维特征分析》获批陕西省教育厅专项科研计划项目。</li>
+    <li>2022-08-11：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650222001201">Bi-level offspring generation</a> 被SCI 1区期刊SEC接收。</li>
+    <li>2022-07-12：🔥<a href="https://link.springer.com/article/10.1007/s11063-022-10966-8">T-E-GRU</a> 被CCF人工智能期刊NPL接收，<a href="https://github.com/NWUzhouwei/T-E-GRU">代码</a>已开源。</li>
+    <li>2022-07-06：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9816052">FCRoute</a> 被CCF A类期刊TCAD接收。</li>
+    <li>2021-11-07：🔥<a href="https://dl.acm.org/doi/abs/10.1145/3487075.3487092">SRG-Net</a> 被5届CSAE接收，<a href="https://github.com/NWUzhouwei/SRGNet">代码</a>已开源。</li>
+    <li>2021-09-18：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402621015849">A self-adaptive learning method</a> 被SCI期刊Optik接收。</li>
+    <li>2021-09-15：🔥大学生创新创业训练计划项目获国家级立项（魏浩文，康笑瑞，杨子阅）。</li>
+    <li>2021-07-30：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378779621004740">Prestrike inrush</a> 被SCI期刊EPSR接收。</li>
+    <li>2020-11-20：🔥<a href="https://pubs.aip.org/aip/jap/article-abstract/128/19/193104/346722/A-deep-unsupervised-clustering-based-post?redirectedFrom=fulltext">Unsupervised clustering-based post-processing</a> 被SCI期刊JAP接收。</li>
+    <li>2020-09-02：🔥<a href="https://opg.optica.org/josaa/abstract.cfm?uri=josaa-37-11-1711">3D Terracotta Warrior Simplification</a> 被SCI期刊JOSA A接收。</li>
+    <li>2020-09-01：🔥<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238259">Single image restoration</a> 被SCI期刊Plos One接收。</li>
+    <li>2020-06-30：🔥项目《基于局部特征描述符的复杂文物发掘场景下的三维目标识别研究与应用》获批陕西省重点研发计划。</li>
+    <li>2020-03-13：🔥项目《智慧博物馆关键技术研发和示范》获批国家重点研发计划。</li>
+    <li>2020-02-19：🔥<a href="https://ieeexplore.ieee.org/abstract/document/9003277">URT</a> 被SCI期刊IEEE Access接收。</li>
+    <li>2020-02-16：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0030402620302783">IE-FBM</a> 被SCI期刊Optik接收。</li>
+    <li>2018-09-15：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849318301468">FFIS</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
+    <li>2018-02-10：🔥<a href="https://link.springer.com/article/10.1007/s00371-018-1478-x">HGND</a> 被CCF计算机图形学与多媒体期刊TVCJ接收。</li>
+    <li>2018-01-27：🔥<a href="https://www.sciencedirect.com/science/article/abs/pii/S0097849318300116">Hough-space-based HG</a> 被CCF计算机图形学与多媒体期刊CAG接收。</li>
+    <li>2016-07-21：🔥获批中国科学院大学留学项目资助前往德国联合培养、访学。</li>
+  </ul>
+</details>
 
 工作经历
 ======
 - 2025.09-至今，西北大学，计算机学院
+- 2019.07-2025.08，西北大学，信息科学与技术学院
+- 2016.10-2017.10，德国达姆施塔特工业大学，Computer Science
+- 2013.01-2013.06，中国科学院，西安光学精密机械研究所
 
-- 2019.07-2025.08, 西北大学, 信息科学与技术学院
-
-- 2016.10-2017.10, 德国达姆施塔特工业大学, Computer Science
-
-- 2013.01-2013.06, 中国科学院, 西安光学精密机械研究所
+教育经历
+======
+- 2016.10-2017.10，联合培养博士，德国弗劳恩霍夫协会IGD研究所，Computer Science
+- 2013.08-2018.09，博士，中国科学院大学，信号与信息处理
+- 2009.08-2013.07，本科，西安电子科技大学，电子信息工程
 
 学术任职
 ======
 - ICML 2026 Golden Reviewer（金牌审稿人）
 - Pacific Graphics 2026 Technical Program Committee & IPC（国际程序委员会）
-- AAAI 2027 Senior Program Commitee（领域主席）
-- AAAI 2027/2026 Program Committee
+- AAAI 2027 Senior Program Committee（领域主席）
+- AAAI 2027 / 2026 Program Committee
+- CVM 2027 Program Committee
 - ICLR 2027 Reviewer
 - CVPR 2026 Reviewer
 - ICCV 2025 Reviewer
@@ -173,10 +144,8 @@ redirect_from:
 - 陕西省计算机学会第九届理事会会员代表
 - 陕西省计算机学会媒体计算专委会委员
 
-
 教授课程
 ======
-
 - 《面向对象程序设计（双语）》
 - 《Java程序设计》
 - 《Java Programming（全英）》
